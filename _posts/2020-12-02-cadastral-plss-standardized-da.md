@@ -1,23 +1,23 @@
 ---
-title: Cadastral PLSS Standardized Data - PLSSPoints (Dalhart) - Version 1.1
-created: '2020-12-02T17:37:28.539955'
-modified: '2020-12-02T17:37:28.539962'
+title: 'Cadastral PLSS Standardized Data - PLSSSpecialSurvey, SW - Version 1.1'
+created: '2020-12-02T17:39:10.711188'
+modified: '2020-12-02T17:39:10.711195'
 state: active
 type: dataset
 tags:
   - Cadastral
-  - Data Steward
+  - Cadastral Reference
   - New Mexico
   - Plss
-  - Plss Corners
+  - Plss Special Surveys
   - Public Land Survey System
   - United States
   - Usa
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/612e98bd-946c-4c54-8672-87ef7d5e8cd3/PLSSPoints_DALHART.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/a1ccd5c2-8c27-4040-9fef-93f299d2a5ab/PLSSSpecialSurvey_SW.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/612e98bd-946c-4c54-8672-87ef7d5e8cd3/PLSSPoints_DALHART.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/a1ccd5c2-8c27-4040-9fef-93f299d2a5ab/PLSSSpecialSurvey_SW.derived.json
 layout: post
 
 ---
@@ -25,7 +25,7 @@ layout: post
                 Infrastructure (NSDI) CADNSDI publication data set for rectangular and
                 non-rectangular Public Land Survey System (PLSS) data set. The metadata description
                 in the Cadastral Reference System Feature Data Set more fully describes the entire
-                data set. These are the corners of the PLSS. This feature class contains summary
-                information about the coordinate location and reliability of corner coordinate
-                information. alternate names or aliases for corners are also inlcuded in this
-                feature class. 
+                data set. This feature class contains the Special Surveys which are non-rectangular
+                components of the PLSS from BLM survey records. These special survey areas are
+                generated from combinations of special survey codes, designators, notes and suffix
+                information in the PLSS Intersected feature class. 
