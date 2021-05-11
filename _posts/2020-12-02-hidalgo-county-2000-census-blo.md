@@ -1,7 +1,7 @@
 ---
-title: Hidalgo County 2000 Census Block Groups
-created: '2020-12-02T16:48:14.168066'
-modified: '2020-12-02T16:48:14.168073'
+title: Hidalgo  County 2000 Census Blocks
+created: '2020-12-02T17:02:02.839885'
+modified: '2020-12-02T17:02:02.839893'
 state: active
 type: dataset
 tags:
@@ -32,9 +32,9 @@ tags:
   - Zip Code
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/17d5c071-384d-407b-b4aa-44c06f0ebc6f/tgr23bg00shp.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/2295f6d4-ba39-4cf7-8544-939b4cd916b5/tgr23blk00shp.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/17d5c071-384d-407b-b4aa-44c06f0ebc6f/tgr23bg00shp.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/2295f6d4-ba39-4cf7-8544-939b4cd916b5/tgr23blk00shp.derived.json
 layout: post
 
 ---
