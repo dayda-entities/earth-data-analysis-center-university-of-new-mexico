@@ -1,25 +1,18 @@
 ---
-title: MIGRATION Residence in 1995 of Persons 5 Yrs and Over NMHD 2000
-created: '2020-12-02T17:27:05.076528'
-modified: '2020-12-02T17:27:05.076535'
+title: MIGRATION Residence in 1995 of Persons 5 Yrs and Over SDs 2000
+created: '2020-12-02T17:27:07.536907'
+modified: '2020-12-02T17:27:07.536914'
 state: active
 type: dataset
 tags:
-  - 2006 Tiger Second Edition
-  - Census Data
-  - County
-  - Current State House Districts
   - New Mexico
-  - Tiger Data
-  - United States
+  - Unified School Districts
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/1b43b523-0c0e-40aa-9212-0177d7940e3d/nmh280data737796214_sth_view.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/54ffc051-6a09-459c-8cb2-a4efeb2f50bc/ksd280data973068261_schd_view.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/1b43b523-0c0e-40aa-9212-0177d7940e3d/nmh280data737796214_sth_view.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/54ffc051-6a09-459c-8cb2-a4efeb2f50bc/ksd280data973068261_schd_view.derived.json
 layout: post
 
 ---
-The 2006 Second Edition TIGER/Line files are an extract of selected geographic and cartographic information from the Census TIGER database.  The geographic coverage for a single TIGER/Line file is a county or statistical equivalent entity, with the coverage area based on the latest available governmental unit boundaries. The Census TIGER database represents a seamless national file with no overlaps or gaps between parts.  However, each county-based TIGER/Line file is designed to stand alone as an independent data set or the files can be combined to cover the whole Nation.  The 2006 Second Edition  TIGER/Line files consist of line segments representing physical features and governmental and statistical boundaries.  
-
-This shapefile represents the current State House Districts for New Mexico as posted on the Census Bureau website for 2006.
+The New Mexico 2000 Unified School Districts layer was derived from  the TIGER Line files from the US Census Bureau. The districts are clipped to the state boundaries, and available for download from the website.
