@@ -1,7 +1,7 @@
 ---
 title: 'Shiprock, NM 1250,000 Quad West Half USGS Land Use/Land Cover, 2000'
-created: '2020-12-02T17:33:06.341588'
-modified: '2020-12-02T17:33:06.341599'
+created: '2020-12-02T17:35:25.000158'
+modified: '2020-12-02T17:35:25.000165'
 state: active
 type: dataset
 tags:
