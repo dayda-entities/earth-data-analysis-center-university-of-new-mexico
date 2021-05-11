@@ -1,7 +1,7 @@
 ---
-title: Cadastral PLSS Standardized Data - PLSSPoints (Shiprock) - Version 1.1
-created: '2020-12-02T16:48:52.055683'
-modified: '2020-12-02T16:48:52.055689'
+title: Cadastral PLSS Standardized Data - PLSSPoints (Raton) - Version 1.1
+created: '2020-12-02T16:58:24.083288'
+modified: '2020-12-02T16:58:24.083294'
 state: active
 type: dataset
 tags:
@@ -15,9 +15,9 @@ tags:
   - Usa
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/e365913a-c5bb-4e4b-96da-e4c8f367c84c/PLSSPoints_SHIPROCK.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/3f2bdc4a-fbe4-4a97-887a-9709b9c9ad99/PLSSPoints_RATON.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/e365913a-c5bb-4e4b-96da-e4c8f367c84c/PLSSPoints_SHIPROCK.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/3f2bdc4a-fbe4-4a97-887a-9709b9c9ad99/PLSSPoints_RATON.derived.json
 layout: post
 
 ---
