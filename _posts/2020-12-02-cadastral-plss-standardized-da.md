@@ -1,7 +1,7 @@
 ---
-title: Cadastral PLSS Standardized Data - PLSSIntersected (Las Cruces) - Version 1.1
-created: '2020-12-02T17:25:14.218317'
-modified: '2020-12-02T17:25:14.218324'
+title: Cadastral PLSS Standardized Data - PLSSIntersected (Socorro) - Version 1.1
+created: '2020-12-02T16:55:09.259927'
+modified: '2020-12-02T16:55:09.259935'
 state: active
 type: dataset
 tags:
@@ -20,9 +20,9 @@ tags:
   - Usa
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/5632464c-7545-430c-b119-a4772f3e1962/PLSSIntersected_LAS_CRUCES.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/a368d395-19b7-4f04-bcc3-857a1a18d1a2/PLSSIntersected_SOCORRO.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/5632464c-7545-430c-b119-a4772f3e1962/PLSSIntersected_LAS_CRUCES.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/a368d395-19b7-4f04-bcc3-857a1a18d1a2/PLSSIntersected_SOCORRO.derived.json
 layout: post
 
 ---
