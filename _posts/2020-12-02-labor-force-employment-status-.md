@@ -1,7 +1,7 @@
 ---
-title: LABOR FORCE Employment Status of Females 16 Yrs and Over SDs 2000
-created: '2020-12-02T16:47:17.273263'
-modified: '2020-12-02T16:47:17.273270'
+title: LABOR FORCE Employment Status of Males 16 Yrs and Over SDs 2000
+created: '2020-12-02T16:57:14.972278'
+modified: '2020-12-02T16:57:14.972285'
 state: active
 type: dataset
 tags:
@@ -9,9 +9,9 @@ tags:
   - Unified School Districts
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/620f2170-9a5b-4b91-8ed5-18de82716aa6/ksd264data784443247_schd_view.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/25ff6c1e-2d74-4d34-8f4d-5389af2c882e/ksd263data837261999_schd_view.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/620f2170-9a5b-4b91-8ed5-18de82716aa6/ksd264data784443247_schd_view.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/25ff6c1e-2d74-4d34-8f4d-5389af2c882e/ksd263data837261999_schd_view.derived.json
 layout: post
 
 ---
