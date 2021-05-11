@@ -1,7 +1,7 @@
 ---
-title: Cadastral PLSS Standardized Data - PLSSSecond Division (Socorro) - Version 1.1
-created: '2020-12-02T16:50:43.806805'
-modified: '2020-12-02T16:50:43.806813'
+title: 'Cadastral PLSS Standardized Data - PLSSQuarterReference, SW - Version 1.1'
+created: '2020-12-02T17:01:10.736068'
+modified: '2020-12-02T17:01:10.736075'
 state: active
 type: dataset
 tags:
@@ -17,9 +17,9 @@ tags:
   - Usa
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/bc3a7f11-15e2-46bf-8b4b-eef136bcfa8e/PLSSSecond_Division_SOCORRO.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/971ec315-b890-4b58-a1ed-4ac43a5a1c81/PLSSQuarterReference_SW.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/bc3a7f11-15e2-46bf-8b4b-eef136bcfa8e/PLSSSecond_Division_SOCORRO.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/971ec315-b890-4b58-a1ed-4ac43a5a1c81/PLSSQuarterReference_SW.derived.json
 layout: post
 
 ---
@@ -27,10 +27,6 @@ layout: post
                 Infrastructure (NSDI) CADNSDI publication data set for rectangular and
                 non-rectangular Public Land Survey System (PLSS) data set. The metadata description
                 in the Cadastral Reference System Feature Data Set more fully describes the entire
-                data set. This feature class is the second division of the PLSS is quarter,
-                quarter-quarter, sixteenth or government lot divisions of the PLSS. The second and
-                third divisions are combined into this feature class as an intentional
-                de-normalization of the PLSS hierarchical data. The polygons in this feature class
-                represent the smallest division to the sixteenth that has been defined for the first
-                division. For example In some cases sections have only been divided to the quarter.
-                Divisions below the sixteenth are in the Special Survey or Parcel Feature Class. 
+                data set. The PLSS Quarter Section Reference feature class is a companion feature
+                class for the PLSS Reference Grid that provides a quarter section division of the
+                sections for reference only. 
