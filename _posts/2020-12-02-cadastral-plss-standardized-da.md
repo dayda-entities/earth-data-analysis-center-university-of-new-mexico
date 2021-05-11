@@ -1,15 +1,18 @@
 ---
-title: 'Cadastral PLSS Standardized Data - PLSSQuarterReference, NE - Version 1.1'
-created: '2020-12-02T16:56:11.641528'
-modified: '2020-12-02T16:56:11.641535'
+title: Cadastral PLSS Standardized Data - PLSSIntersected (Las Cruces) - Version 1.1
+created: '2020-12-02T17:25:14.218317'
+modified: '2020-12-02T17:25:14.218324'
 state: active
 type: dataset
 tags:
   - Cadastral
   - Cadastral Reference
+  - Data Steward
+  - Meandered Water
   - New Mexico
   - Plss
   - Plss Divisions
+  - Plss Special Surveys
   - Public Land Survey System
   - Section
   - Township
@@ -17,9 +20,9 @@ tags:
   - Usa
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/5e076dff-aca3-4450-aef7-b9a286e84f4b/PLSSQuarterReference_NE.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/5632464c-7545-430c-b119-a4772f3e1962/PLSSIntersected_LAS_CRUCES.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/5e076dff-aca3-4450-aef7-b9a286e84f4b/PLSSQuarterReference_NE.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/5632464c-7545-430c-b119-a4772f3e1962/PLSSIntersected_LAS_CRUCES.derived.json
 layout: post
 
 ---
@@ -27,6 +30,7 @@ layout: post
                 Infrastructure (NSDI) CADNSDI publication data set for rectangular and
                 non-rectangular Public Land Survey System (PLSS) data set. The metadata description
                 in the Cadastral Reference System Feature Data Set more fully describes the entire
-                data set. The PLSS Quarter Section Reference feature class is a companion feature
-                class for the PLSS Reference Grid that provides a quarter section division of the
-                sections for reference only. 
+                data set. The fully intersected data is the atomic level of the PLSS that is similar
+                to the Esri coverage or the smallest pieces used to build the PLSS. Polygons may
+                overlap in this feature class. This feature class will also contain retired or
+                replaced areas of the PLSS. 
