@@ -1,23 +1,23 @@
 ---
-title: 'Cadastral PLSS Standardized Data - PLSSTownship, NE - Version 1.1'
-created: '2020-12-02T17:27:57.467549'
-modified: '2020-12-02T17:27:57.467556'
+title: Cadastral PLSS Standardized Data - PLSSPoints (Aztec) - Version 1.1
+created: '2020-12-02T16:48:41.496210'
+modified: '2020-12-02T16:48:41.496216'
 state: active
 type: dataset
 tags:
   - Cadastral
-  - Cadastral Reference
+  - Data Steward
   - New Mexico
   - Plss
+  - Plss Corners
   - Public Land Survey System
-  - Township
   - United States
   - Usa
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/f5b71837-9c4c-4a89-89a8-41d314b49191/PLSSTownship_NE.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/490f9c37-240d-4d43-9c56-7835fbc26373/PLSSPoints_AZTEC.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/f5b71837-9c4c-4a89-89a8-41d314b49191/PLSSTownship_NE.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/490f9c37-240d-4d43-9c56-7835fbc26373/PLSSPoints_AZTEC.derived.json
 layout: post
 
 ---
@@ -25,7 +25,7 @@ layout: post
                 Infrastructure (NSDI) CADNSDI publication data set for rectangular and
                 non-rectangular Public Land Survey System (PLSS) data set. The metadata description
                 in the Cadastral Reference System Feature Data Set more fully describes the entire
-                data set. This feature class contains the Public Land Survey System Townships which
-                are the primary unit of survey for the PLSS, nominally six miles on a side, usually
-                containing 36 sections. PLSS Townships are numbered from base lines and principal
-                meridians. 
+                data set. These are the corners of the PLSS. This feature class contains summary
+                information about the coordinate location and reliability of corner coordinate
+                information. alternate names or aliases for corners are also inlcuded in this
+                feature class. 
