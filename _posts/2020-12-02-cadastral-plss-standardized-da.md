@@ -1,9 +1,7 @@
 ---
-title: >-
-  Cadastral PLSS Standardized Data - PLSSSecond Division (Silver City) - Version
-  1.1
-created: '2020-12-02T16:56:53.287668'
-modified: '2020-12-02T16:56:53.287675'
+title: Cadastral PLSS Standardized Data - PLSSSecond Division (Raton) - Version 1.1
+created: '2020-12-02T17:27:22.769230'
+modified: '2020-12-02T17:27:22.769237'
 state: active
 type: dataset
 tags:
@@ -19,9 +17,9 @@ tags:
   - Usa
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/3a3817ff-ae6b-451e-add2-d09e379c2727/PLSSSecond_Division_SILVER_CITY.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/6228fd2e-180f-4ef4-b22a-13c7d8c0ca0e/PLSSSecond_Division_RATON.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/3a3817ff-ae6b-451e-add2-d09e379c2727/PLSSSecond_Division_SILVER_CITY.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/6228fd2e-180f-4ef4-b22a-13c7d8c0ca0e/PLSSSecond_Division_RATON.derived.json
 layout: post
 
 ---
