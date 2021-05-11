@@ -1,7 +1,7 @@
 ---
-title: Cadastral PLSS Standardized Data - PLSSPoints (Raton) - Version 1.1
-created: '2020-12-02T16:58:24.083288'
-modified: '2020-12-02T16:58:24.083294'
+title: Cadastral PLSS Standardized Data - PLSSPoints (Ft Sumner) - Version 1.1
+created: '2020-12-02T16:58:01.001734'
+modified: '2020-12-02T16:58:01.001741'
 state: active
 type: dataset
 tags:
@@ -15,9 +15,9 @@ tags:
   - Usa
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/3f2bdc4a-fbe4-4a97-887a-9709b9c9ad99/PLSSPoints_RATON.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/f510e757-b69f-4761-9f22-a93734beb578/PLSSPoints_FT_SUMNER.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/3f2bdc4a-fbe4-4a97-887a-9709b9c9ad99/PLSSPoints_RATON.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/f510e757-b69f-4761-9f22-a93734beb578/PLSSPoints_FT_SUMNER.derived.json
 layout: post
 
 ---
