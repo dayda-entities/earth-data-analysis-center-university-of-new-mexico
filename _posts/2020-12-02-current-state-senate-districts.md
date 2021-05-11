@@ -1,26 +1,26 @@
 ---
-title: 'Current State Senate Districts for Union County, New Mexico, 2006se TIGER'
-created: '2020-12-02T17:36:57.115865'
-modified: '2020-12-02T17:36:57.115872'
+title: 'Current State Senate Districts for Chaves County, New Mexico, 2006se TIGER'
+created: '2020-12-02T16:52:47.905213'
+modified: '2020-12-02T16:52:47.905220'
 state: active
 type: dataset
 tags:
   - 2006 Tiger Second Edition
   - Census Data
+  - Chaves County
   - County
   - Current State Senate Districts
   - New Mexico
   - Tiger Data
-  - Union County
   - United States
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/7fdc0849-cec9-4b05-9d23-fbc4c9ecc108/tgr2006se_unio_slducu.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/f077b099-4d87-4b14-a013-ea26c63fe726/tgr2006se_chav_slducu.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/7fdc0849-cec9-4b05-9d23-fbc4c9ecc108/tgr2006se_unio_slducu.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/f077b099-4d87-4b14-a013-ea26c63fe726/tgr2006se_chav_slducu.derived.json
 layout: post
 
 ---
 The 2006 Second Edition TIGER/Line files are an extract of selected geographic and cartographic information from the Census TIGER database.  The geographic coverage for a single TIGER/Line file is a county or statistical equivalent entity, with the coverage area based on the latest available governmental unit boundaries. The Census TIGER database represents a seamless national file with no overlaps or gaps between parts.  However, each county-based TIGER/Line file is designed to stand alone as an independent data set or the files can be combined to cover the whole Nation.  The 2006 Second Edition  TIGER/Line files consist of line segments representing physical features and governmental and statistical boundaries.  
 
-This shapefile represents the current State Senate Districts for Union County stored in the 2006 TIGER Second Edition dataset.
+This shapefile represents the current State Senate Districts for Chaves County stored in the 2006 TIGER Second Edition dataset.
