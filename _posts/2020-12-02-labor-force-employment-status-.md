@@ -1,18 +1,25 @@
 ---
-title: LABOR FORCE Employment Status of Males 16 Yrs and Over SDs 2000
-created: '2020-12-02T16:57:14.972278'
-modified: '2020-12-02T16:57:14.972285'
+title: LABOR FORCE Employment Status of Females 16 Yrs and Over NMHD 2000
+created: '2020-12-02T17:28:13.292456'
+modified: '2020-12-02T17:28:13.292466'
 state: active
 type: dataset
 tags:
+  - 2006 Tiger Second Edition
+  - Census Data
+  - County
+  - Current State House Districts
   - New Mexico
-  - Unified School Districts
+  - Tiger Data
+  - United States
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/25ff6c1e-2d74-4d34-8f4d-5389af2c882e/ksd263data837261999_schd_view.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/fe2bcc2a-bf6f-4019-b31b-060be41127e4/nmh264data331765767_sth_view.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/25ff6c1e-2d74-4d34-8f4d-5389af2c882e/ksd263data837261999_schd_view.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/fe2bcc2a-bf6f-4019-b31b-060be41127e4/nmh264data331765767_sth_view.derived.json
 layout: post
 
 ---
-The New Mexico 2000 Unified School Districts layer was derived from  the TIGER Line files from the US Census Bureau. The districts are clipped to the state boundaries, and available for download from the website.
+The 2006 Second Edition TIGER/Line files are an extract of selected geographic and cartographic information from the Census TIGER database.  The geographic coverage for a single TIGER/Line file is a county or statistical equivalent entity, with the coverage area based on the latest available governmental unit boundaries. The Census TIGER database represents a seamless national file with no overlaps or gaps between parts.  However, each county-based TIGER/Line file is designed to stand alone as an independent data set or the files can be combined to cover the whole Nation.  The 2006 Second Edition  TIGER/Line files consist of line segments representing physical features and governmental and statistical boundaries.  
+
+This shapefile represents the current State House Districts for New Mexico as posted on the Census Bureau website for 2006.
