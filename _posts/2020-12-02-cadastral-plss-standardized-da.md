@@ -1,7 +1,7 @@
 ---
-title: 'Cadastral PLSS Standardized Data - PLSSSpecialSurvey, SW - Version 1.1'
-created: '2020-12-02T17:39:10.711188'
-modified: '2020-12-02T17:39:10.711195'
+title: 'Cadastral PLSS Standardized Data - PLSSTownship, NW - Version 1.1'
+created: '2020-12-02T16:44:39.807255'
+modified: '2020-12-02T16:44:39.807262'
 state: active
 type: dataset
 tags:
@@ -9,15 +9,15 @@ tags:
   - Cadastral Reference
   - New Mexico
   - Plss
-  - Plss Special Surveys
   - Public Land Survey System
+  - Township
   - United States
   - Usa
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/a1ccd5c2-8c27-4040-9fef-93f299d2a5ab/PLSSSpecialSurvey_SW.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/17f4b622-59e9-4bc1-a36f-fd57855f832f/PLSSTownship_NW.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/a1ccd5c2-8c27-4040-9fef-93f299d2a5ab/PLSSSpecialSurvey_SW.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/17f4b622-59e9-4bc1-a36f-fd57855f832f/PLSSTownship_NW.derived.json
 layout: post
 
 ---
@@ -25,7 +25,7 @@ layout: post
                 Infrastructure (NSDI) CADNSDI publication data set for rectangular and
                 non-rectangular Public Land Survey System (PLSS) data set. The metadata description
                 in the Cadastral Reference System Feature Data Set more fully describes the entire
-                data set. This feature class contains the Special Surveys which are non-rectangular
-                components of the PLSS from BLM survey records. These special survey areas are
-                generated from combinations of special survey codes, designators, notes and suffix
-                information in the PLSS Intersected feature class. 
+                data set. This feature class contains the Public Land Survey System Townships which
+                are the primary unit of survey for the PLSS, nominally six miles on a side, usually
+                containing 36 sections. PLSS Townships are numbered from base lines and principal
+                meridians. 
