@@ -1,7 +1,7 @@
 ---
-title: EDUCATION Attainment of Persons by Broad Category and Sex NMSD 2000
-created: '2020-12-02T17:20:56.272410'
-modified: '2020-12-02T17:20:56.272417'
+title: EDUCATION Attainment of Persons by Detailed Category NMSD 2000
+created: '2020-12-02T16:46:23.073959'
+modified: '2020-12-02T16:46:23.073966'
 state: active
 type: dataset
 tags:
@@ -14,9 +14,9 @@ tags:
   - United States
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/1c3259bf-eb15-406d-b899-a569c606862c/nms253data145801644_sts_view.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/c25e9bff-fb1c-44c9-a5b8-34ebee23c370/nms249data546394288_sts_view.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/1c3259bf-eb15-406d-b899-a569c606862c/nms253data145801644_sts_view.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/c25e9bff-fb1c-44c9-a5b8-34ebee23c370/nms249data546394288_sts_view.derived.json
 layout: post
 
 ---
