@@ -1,7 +1,7 @@
 ---
-title: Catron County 2000 Census Blocks
-created: '2020-12-02T16:56:29.837285'
-modified: '2020-12-02T16:56:29.837296'
+title: Catron County 2000 Census Block Groups
+created: '2020-12-02T17:25:28.771559'
+modified: '2020-12-02T17:25:28.771566'
 state: active
 type: dataset
 tags:
@@ -32,9 +32,9 @@ tags:
   - Zip Code
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/7e973bea-b168-4511-9d7d-9bd6e19ecf3e/tgr3blk00shp.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/b869454a-e17c-4581-8804-dd4dc7f93114/tgr3bg00shp.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/7e973bea-b168-4511-9d7d-9bd6e19ecf3e/tgr3blk00shp.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/b869454a-e17c-4581-8804-dd4dc7f93114/tgr3bg00shp.derived.json
 layout: post
 
 ---
