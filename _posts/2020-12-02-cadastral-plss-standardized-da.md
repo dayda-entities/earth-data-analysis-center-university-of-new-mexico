@@ -1,7 +1,7 @@
 ---
-title: Cadastral PLSS Standardized Data - PLSSPoints (Ft Sumner) - Version 1.1
-created: '2020-12-02T16:58:01.001734'
-modified: '2020-12-02T16:58:01.001741'
+title: Cadastral PLSS Standardized Data - PLSSPoints (Tularosa) - Version 1.1
+created: '2020-12-02T16:52:57.058199'
+modified: '2020-12-02T16:52:57.058206'
 state: active
 type: dataset
 tags:
@@ -15,9 +15,9 @@ tags:
   - Usa
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/f510e757-b69f-4761-9f22-a93734beb578/PLSSPoints_FT_SUMNER.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/c7d0f432-381d-4df7-9488-92b077225237/PLSSPoints_TULAROSA.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/f510e757-b69f-4761-9f22-a93734beb578/PLSSPoints_FT_SUMNER.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/c7d0f432-381d-4df7-9488-92b077225237/PLSSPoints_TULAROSA.derived.json
 layout: post
 
 ---
