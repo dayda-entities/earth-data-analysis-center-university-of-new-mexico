@@ -1,7 +1,7 @@
 ---
-title: Torrance County 1990 Census Blocks
-created: '2020-12-02T16:46:59.303284'
-modified: '2020-12-02T16:46:59.303294'
+title: Torrance County 1990 Census Block Groups
+created: '2020-12-02T16:59:43.585912'
+modified: '2020-12-02T16:59:43.585919'
 state: active
 type: dataset
 tags:
@@ -11,13 +11,12 @@ tags:
   - Torrance County
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/5ccf95ac-e038-43c1-b4bd-6b80a5fd38de/tlf557shp.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/08a54675-97c1-46cb-8a32-5fa6b7bce193/tlf457shp.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/5ccf95ac-e038-43c1-b4bd-6b80a5fd38de/tlf557shp.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/08a54675-97c1-46cb-8a32-5fa6b7bce193/tlf457shp.derived.json
 layout: post
 
 ---
-
-This data set is a vector polygon digital data structure taken from the Census Bureau's TIGER/Line Files, 1994, for New Mexico.
-The source software used was ARC/INFO 7.0.3.
-
+This data set is a vector polygon digital data structure taken from the Census
+				Bureau's TIGER/Line Files, 1994, for New Mexico. The source software used was
+				ARC/INFO 7.0.3
