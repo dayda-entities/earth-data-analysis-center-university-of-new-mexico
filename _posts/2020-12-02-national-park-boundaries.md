@@ -1,0 +1,273 @@
+---
+title: National Park Boundaries
+created: '2020-12-02T16:52:22.446206'
+modified: '2020-12-02T16:52:22.446214'
+state: active
+type: dataset
+tags:
+  - Alag
+  - Alagnak Wild River
+  - Alaska
+  - All_nps
+  - American Samoa
+  - Ania
+  - Aniakchak National Monument And Preserve
+  - Anti
+  - Antietam National Battlefield
+  - Apco
+  - Appomattox Court House National Historical Park
+  - Arch
+  - Arches National Park
+  - Arho
+  - Arlington House / The Robert E. Lee National Memorial
+  - Bela
+  - Bering Land Bridge National Preserve
+  - Black Canyon Of The Gunnison National Park
+  - Blca
+  - Boha
+  - Boston Harbor Islands National Recreation Area
+  - Boundary
+  - Brcr
+  - Brices Cross Roads National Battlefield Site
+  - Brown V. Board Of Education National Historic Site
+  - Brvb
+  - Buck Island Reef National Monument
+  - Buff
+  - Buffalo National River
+  - Buis
+  - Cabr
+  - Cacl
+  - Cakr
+  - Cape Krusenstern National Monument
+  - Capulin Volcano National Monument
+  - Carl
+  - Carl Sandburg Home National Historic Site
+  - Carlsbad Caverns National Park
+  - Carter G. Woodson Home National Historic Site
+  - Casa
+  - Castillo De San Marcos National Monument
+  - Castle Clinton National Monument
+  - Cato
+  - Catoctin Mountain Park
+  - Cave
+  - Cavo
+  - Cawo
+  - Cebe
+  - Cebr
+  - Cedar Breaks National Monument
+  - Cedar Creek And Belle Grove National Historical Park
+  - Central High School National Historic Site
+  - Channel Islands National Park
+  - Charles Pinckney National Historic Site
+  - Chir
+  - Chiricahua National Monument
+  - Chis
+  - Chpi
+  - Chri
+  - Christiansted National Historic Site
+  - Chsc
+  - Clara Barton National Historic Site
+  - Clba
+  - Continental Us
+  - Cuga
+  - Cumberland Gap National Historical Park
+  - Dena
+  - Denali National Park And Preserve
+  - Department Of Interior
+  - Deto
+  - Devils Tower National Monument
+  - Doi
+  - El Morro National Monument
+  - Eleanor Roosevelt National Historic Site
+  - Elmo
+  - Elro
+  - Federal Hall National Memorial
+  - Feha
+  - Fila
+  - First Ladies National Historic Site
+  - Flfo
+  - Florissant Fossil Beds National Monument
+  - Fobo
+  - Fofr
+  - Ford&apos
+  - Fort Bowie National Historic Site
+  - Fort Frederica National Monument
+  - Fort Smith National Historic Site
+  - Fort Sumter National Monument
+  - Fort Washington Park
+  - Fosm
+  - Fosu
+  - Foth
+  - Fowa
+  - Frdo
+  - Frederick Douglass National Historic Site
+  - Gaar
+  - Gates Of The Arctic National Park And Preserve
+  - George Washington Memorial Parkway
+  - Gicl
+  - Gila Cliff Dwellings National Monument
+  - Gis Division
+  - Gisd
+  - Glacier Bay National Park And Preserve
+  - Glba
+  - Goga
+  - Golden Gate National Recreation Area
+  - Grant Kohrs Ranch National Historic Site
+  - Great Sand Dunes National Park And Preserve
+  - Gree
+  - Greenbelt Park
+  - Grko
+  - Grsa
+  - Guam
+  - Gwmp
+  - Hafe
+  - Harpers Ferry National Historical Park
+  - Hawaii
+  - Heho
+  - Herbert Hoover National Historic Site
+  - Hofr
+  - Home
+  - Home Of Franklin D. Roosevelt National Historic Site
+  - Homestead National Monument Of America
+  - Hubbell Trading Post National Historic Site
+  - Hutr
+  - Iatr
+  - Ice Age National Scenic Trail
+  - Jaga
+  - James A. Garfield National Historic Site
+  - Jica
+  - Jimmy Carter National Historic Site
+  - Joshua Tree National Park
+  - Jotr
+  - Jr National Historic Site
+  - Katm
+  - Katmai National Park And Preserve
+  - Kefj
+  - Kemo
+  - Kenai Fjords National Park
+  - Kennesaw Mountain National Battlefield Park
+  - Kica
+  - Kings Canyon National Park
+  - Klgo
+  - Klondike Gold Rush National Historical Park
+  - Kobuk Valley National Park
+  - Kova
+  - Lacl
+  - Lake Clark National Park And Preserve
+  - Lake Mead National Recreation Area
+  - Lame
+  - Libi
+  - Little Bighorn Battlefield National Monument
+  - Lyba
+  - Lyndon Baines Johnson Memorial Grove On The Potomac National Memorial
+  - Mabe
+  - Maca
+  - Malu
+  - Mammoth Cave National Park
+  - Mana
+  - Manassas National Battlefield Park
+  - Martin Luther King
+  - Mary Mcleod Bethune Council House National Historic Site
+  - Mesa Verde National Park
+  - Meve
+  - Moja
+  - Mojave National Preserve
+  - Mono
+  - Monocacy National Battlefield
+  - Naca
+  - Natc
+  - Natchez National Historical Park
+  - National Park Service
+  - National Parks
+  - Ninety Six National Historic Site
+  - Nisi
+  - Noat
+  - Noatak National Preserve
+  - Nps
+  - Organ Pipe Cactus National Monument
+  - Orpi
+  - Ozar
+  - Ozark National Scenic Riverways
+  - Padre Island National Seashore
+  - Pais
+  - Pefo
+  - Petrified Forest National Park
+  - Pictured Rocks National Lakeshore
+  - Pipe Spring National Monument
+  - Piro
+  - Pisc
+  - Piscataway Park
+  - Pisp
+  - Point Reyes National Seashore
+  - Pore
+  - Ronald Reagan Boyhood Home National Historic Site
+  - Rrbh
+  - S Theatre National Historic Site
+  - Salt River Bay National Historical Park And Ecological Preserve
+  - Samo
+  - Sand
+  - Sand Creek Massacre National Historic Site
+  - Santa Monica Mountains National Recreation Area
+  - Sari
+  - Scbl
+  - Scotts Bluff National Monument
+  - Sequ
+  - Sequoia National Park
+  - Sitk
+  - Sitka National Historical Park
+  - Sucr
+  - Sunset Crater Volcano National Monument
+  - Theodore Roosevelt Island National Memorial
+  - This
+  - Tica
+  - Timpanogos Cave National Monument
+  - Tont
+  - Tonto National Monument
+  - Tuai
+  - Tuma
+  - Tumacacori National Historical Park
+  - Tupe
+  - Tupelo National Battlefield
+  - Tuskegee Airman National Historic Site
+  - Tuzi
+  - Tuzigoot National Monument
+  - United States
+  - Usa
+  - Vafo
+  - Valley Forge National Historical Park
+  - Virgin Islands
+  - Voya
+  - Voyageurs National Park
+  - Waba
+  - Wapa
+  - War In The Pacific National Historical Park
+  - Washita Battlefield National Historic Site
+  - Whis
+  - Whiskeytown National Recreation Area
+  - White Sands National Monument
+  - Whitman Mission National Historic Site
+  - Whmi
+  - Whsa
+  - Wica
+  - Wind Cave National Park
+  - Wolf Trap National Park For The Performing Arts
+  - Wotr
+  - Wrangell   St Elias National Park And Preserve
+  - Wrst
+  - Wupa
+  - Wupatki National Monument
+  - Yose
+  - Yosemite National Park
+  - Yucca House National Monument
+  - Yuch
+  - Yuho
+  - Yukon   Charley Rivers National Preserve
+groups: []
+csv_url: >-
+  http://gstore.unm.edu/apps/rgisarchive/datasets/7bbe8af5-029b-4adf-b06c-134f0dd57226/nps_boundary.derived.csv
+json_url: >-
+  http://gstore.unm.edu/apps/rgisarchive/datasets/7bbe8af5-029b-4adf-b06c-134f0dd57226/nps_boundary.derived.json
+layout: post
+
+---
+National Park Service unit boundaries.
