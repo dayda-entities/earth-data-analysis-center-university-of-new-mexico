@@ -1,28 +1,23 @@
 ---
-title: Cadastral PLSS Standardized Data - PLSSIntersected (Albuquerque) - Version 1.1
-created: '2020-12-02T16:53:51.150013'
-modified: '2020-12-02T16:53:51.150020'
+title: Cadastral PLSS Standardized Data - PLSSPoints (Santa Fe) - Version 1.1
+created: '2020-12-02T16:54:41.275817'
+modified: '2020-12-02T16:54:41.275824'
 state: active
 type: dataset
 tags:
   - Cadastral
-  - Cadastral Reference
   - Data Steward
-  - Meandered Water
   - New Mexico
   - Plss
-  - Plss Divisions
-  - Plss Special Surveys
+  - Plss Corners
   - Public Land Survey System
-  - Section
-  - Township
   - United States
   - Usa
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/184c176f-0eb3-4765-8d1b-cd101188625a/PLSSIntersected_ALBUQUERQUE.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/c8fb2b3f-18bd-4b21-90b8-a5742c6f2c56/PLSSPoints_SANTA_FE.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/184c176f-0eb3-4765-8d1b-cd101188625a/PLSSIntersected_ALBUQUERQUE.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/c8fb2b3f-18bd-4b21-90b8-a5742c6f2c56/PLSSPoints_SANTA_FE.derived.json
 layout: post
 
 ---
@@ -30,7 +25,7 @@ layout: post
                 Infrastructure (NSDI) CADNSDI publication data set for rectangular and
                 non-rectangular Public Land Survey System (PLSS) data set. The metadata description
                 in the Cadastral Reference System Feature Data Set more fully describes the entire
-                data set. The fully intersected data is the atomic level of the PLSS that is similar
-                to the Esri coverage or the smallest pieces used to build the PLSS. Polygons may
-                overlap in this feature class. This feature class will also contain retired or
-                replaced areas of the PLSS. 
+                data set. These are the corners of the PLSS. This feature class contains summary
+                information about the coordinate location and reliability of corner coordinate
+                information. alternate names or aliases for corners are also inlcuded in this
+                feature class. 
