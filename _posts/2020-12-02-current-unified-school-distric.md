@@ -1,7 +1,7 @@
 ---
-title: 'Current Unified School Districts for Luna County, New Mexico, 2006se TIGER'
-created: '2020-12-02T16:59:13.205711'
-modified: '2020-12-02T16:59:13.205718'
+title: 'Current Unified School Districts for Dona Ana County, New Mexico, 2006se TIGER'
+created: '2020-12-02T17:33:10.739934'
+modified: '2020-12-02T17:33:10.739940'
 state: active
 type: dataset
 tags:
@@ -9,18 +9,18 @@ tags:
   - Census Data
   - County
   - Current Unified School Districts
-  - Luna County
+  - Dona Ana County
   - New Mexico
   - Tiger Data
   - United States
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/2ed09167-d0ad-4575-b8ee-d965bcd2f5a5/tgr2006se_luna_sdunicu.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/b2469a3c-788a-4d9f-83ab-1c31195e1530/tgr2006se_dona_sdunicu.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/2ed09167-d0ad-4575-b8ee-d965bcd2f5a5/tgr2006se_luna_sdunicu.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/b2469a3c-788a-4d9f-83ab-1c31195e1530/tgr2006se_dona_sdunicu.derived.json
 layout: post
 
 ---
 The 2006 Second Edition TIGER/Line files are an extract of selected geographic and cartographic information from the Census TIGER database.  The geographic coverage for a single TIGER/Line file is a county or statistical equivalent entity, with the coverage area based on the latest available governmental unit boundaries. The Census TIGER database represents a seamless national file with no overlaps or gaps between parts.  However, each county-based TIGER/Line file is designed to stand alone as an independent data set or the files can be combined to cover the whole Nation.  The 2006 Second Edition  TIGER/Line files consist of line segments representing physical features and governmental and statistical boundaries.  
 
-This shapefile represents the current Unified School Districts for Luna County stored in the 2006 TIGER Second Edition dataset.
+This shapefile represents the current Unified School Districts for Dona Ana County stored in the 2006 TIGER Second Edition dataset.
