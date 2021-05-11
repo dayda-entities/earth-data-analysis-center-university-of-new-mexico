@@ -1,0 +1,24 @@
+---
+title: Harding County Current Point Landmarks
+created: '2020-12-02T16:48:46.750961'
+modified: '2020-12-02T16:48:46.750971'
+state: active
+type: dataset
+tags:
+  - '35021'
+  - County Or Equivalent Entity
+  - Harding
+  - Point
+  - Point Landmark
+  - U.s.
+  - United States
+groups: []
+csv_url: >-
+  http://gstore.unm.edu/apps/rgisarchive/datasets/72ae2b9e-dd0e-4513-b9e8-3fd9b698e6d0/tl_2010_35021_pointlm.derived.csv
+json_url: >-
+  http://gstore.unm.edu/apps/rgisarchive/datasets/72ae2b9e-dd0e-4513-b9e8-3fd9b698e6d0/tl_2010_35021_pointlm.derived.json
+layout: post
+
+---
+The TIGER/Line Files are shapefiles and related database files (.dbf) that are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB).  The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line File is designed to stand alone as an independent data set, or they can be combined to cover the entire nation.  The Census Bureau includes landmarks in the MTDB for locating special features and to help enumerators during field operations.  Some of the more common landmark types include area landmarks such as airports, cemeteries, parks, mountain peaks/summits, schools, and churches and other religious institutions.  The Census Bureau has added landmark features to MTDB on an as-needed basis and made no attempt to ensure that all instances of a particular feature were included.  The presence or absence of a landmark such as a hospital or prison does not mean that the living quarters associated with that landmark were geocoded to that census tabulation block or excluded from the census enumeration.  
+
