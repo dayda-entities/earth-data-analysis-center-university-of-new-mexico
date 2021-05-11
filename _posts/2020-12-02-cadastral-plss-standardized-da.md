@@ -1,25 +1,23 @@
 ---
-title: 'Cadastral PLSS Standardized Data - PLSSQuarterReference, NW - Version 1.1'
-created: '2020-12-02T17:37:10.323215'
-modified: '2020-12-02T17:37:10.323222'
+title: Cadastral PLSS Standardized Data - PLSSPoints (Dalhart) - Version 1.1
+created: '2020-12-02T17:37:28.539955'
+modified: '2020-12-02T17:37:28.539962'
 state: active
 type: dataset
 tags:
   - Cadastral
-  - Cadastral Reference
+  - Data Steward
   - New Mexico
   - Plss
-  - Plss Divisions
+  - Plss Corners
   - Public Land Survey System
-  - Section
-  - Township
   - United States
   - Usa
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/e8503b71-531e-4df1-9f78-4e19c9136c19/PLSSQuarterReference_NW.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/612e98bd-946c-4c54-8672-87ef7d5e8cd3/PLSSPoints_DALHART.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/e8503b71-531e-4df1-9f78-4e19c9136c19/PLSSQuarterReference_NW.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/612e98bd-946c-4c54-8672-87ef7d5e8cd3/PLSSPoints_DALHART.derived.json
 layout: post
 
 ---
@@ -27,6 +25,7 @@ layout: post
                 Infrastructure (NSDI) CADNSDI publication data set for rectangular and
                 non-rectangular Public Land Survey System (PLSS) data set. The metadata description
                 in the Cadastral Reference System Feature Data Set more fully describes the entire
-                data set. The PLSS Quarter Section Reference feature class is a companion feature
-                class for the PLSS Reference Grid that provides a quarter section division of the
-                sections for reference only. 
+                data set. These are the corners of the PLSS. This feature class contains summary
+                information about the coordinate location and reliability of corner coordinate
+                information. alternate names or aliases for corners are also inlcuded in this
+                feature class. 
