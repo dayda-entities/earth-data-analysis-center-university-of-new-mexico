@@ -1,7 +1,7 @@
 ---
-title: Cadastral PLSS Standardized Data - PLSSPoints (Santa Fe) - Version 1.1
-created: '2020-12-02T16:54:41.275817'
-modified: '2020-12-02T16:54:41.275824'
+title: 'Cadastral PLSS Standardized Data - MetadataGlance, NE - Version 1.1'
+created: '2020-12-02T17:20:30.918126'
+modified: '2020-12-02T17:20:30.918135'
 state: active
 type: dataset
 tags:
@@ -9,23 +9,18 @@ tags:
   - Data Steward
   - New Mexico
   - Plss
-  - Plss Corners
   - Public Land Survey System
   - United States
   - Usa
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/c8fb2b3f-18bd-4b21-90b8-a5742c6f2c56/PLSSPoints_SANTA_FE.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/d5fe8783-dcea-4f3e-a1f4-ed8735b516cf/MetadataGlance_NE.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/c8fb2b3f-18bd-4b21-90b8-a5742c6f2c56/PLSSPoints_SANTA_FE.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/d5fe8783-dcea-4f3e-a1f4-ed8735b516cf/MetadataGlance_NE.derived.json
 layout: post
 
 ---
- This feature class is part of the Cadastral National Spatial Data
-                Infrastructure (NSDI) CADNSDI publication data set for rectangular and
-                non-rectangular Public Land Survey System (PLSS) data set. The metadata description
-                in the Cadastral Reference System Feature Data Set more fully describes the entire
-                data set. These are the corners of the PLSS. This feature class contains summary
-                information about the coordinate location and reliability of corner coordinate
-                information. alternate names or aliases for corners are also inlcuded in this
-                feature class. 
+
+This feature class is part of the Cadastral National Spatial Data Infrastructure (NSDI) CADNSDI publication data set for rectangular and non-rectangular Public Land Survey System (PLSS) data set.  The metadata description in the Cadastral Reference System Feature Data Set more fully describes the entire data set.
+This is a graphic representation of the data stewards for the Public Land Survey System (PLSS). For BLM data sets the the data steward is identifed at the township level or smaller area  The Data Steward is agency that will be responsible for updates of the PLSS. In the shared environment of the Natioanl Spatial Data Infrastructure (NSDI) the data steward for an area is the primary coordinator or agency responsible for making updates or causing updates to be made. Any questions about data content should be directed to the data steward.
+
