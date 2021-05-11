@@ -1,23 +1,23 @@
 ---
-title: 'Cadastral PLSS Standardized Data - PLSSSpecialSurvey, NE - Version 1.1'
-created: '2020-12-02T16:59:04.570462'
-modified: '2020-12-02T16:59:04.570469'
+title: Cadastral PLSS Standardized Data - PLSSPoints (Socorro) - Version 1.1
+created: '2020-12-02T16:56:14.451636'
+modified: '2020-12-02T16:56:14.451643'
 state: active
 type: dataset
 tags:
   - Cadastral
-  - Cadastral Reference
+  - Data Steward
   - New Mexico
   - Plss
-  - Plss Special Surveys
+  - Plss Corners
   - Public Land Survey System
   - United States
   - Usa
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/9498e14d-85a2-46cc-af91-c42d46d3c356/PLSSSpecialSurvey_NE.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/38ef4af8-6be3-4c72-9eae-fa471a884a22/PLSSPoints_SOCORRO.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/9498e14d-85a2-46cc-af91-c42d46d3c356/PLSSSpecialSurvey_NE.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/38ef4af8-6be3-4c72-9eae-fa471a884a22/PLSSPoints_SOCORRO.derived.json
 layout: post
 
 ---
@@ -25,7 +25,7 @@ layout: post
                 Infrastructure (NSDI) CADNSDI publication data set for rectangular and
                 non-rectangular Public Land Survey System (PLSS) data set. The metadata description
                 in the Cadastral Reference System Feature Data Set more fully describes the entire
-                data set. This feature class contains the Special Surveys which are non-rectangular
-                components of the PLSS from BLM survey records. These special survey areas are
-                generated from combinations of special survey codes, designators, notes and suffix
-                information in the PLSS Intersected feature class. 
+                data set. These are the corners of the PLSS. This feature class contains summary
+                information about the coordinate location and reliability of corner coordinate
+                information. alternate names or aliases for corners are also inlcuded in this
+                feature class. 
