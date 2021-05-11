@@ -1,7 +1,7 @@
 ---
-title: De Baca County 2000 Census Blocks
-created: '2020-12-02T16:46:33.409407'
-modified: '2020-12-02T16:46:33.409416'
+title: De Baca County 2000 Census Block Groups
+created: '2020-12-02T17:23:41.726860'
+modified: '2020-12-02T17:23:41.726870'
 state: active
 type: dataset
 tags:
@@ -11,7 +11,7 @@ tags:
   - Coordinate
   - County
   - County/county Equivalent
-  - De Baca County
+  - Dona Ana County
   - Feature Identifier
   - Geographic Entity
   - Landmark Feature
@@ -32,9 +32,9 @@ tags:
   - Zip Code
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/b9bf9fc4-0782-4ff3-96d1-6654f2e13caf/tgr11blk00shp.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/21905083-ef19-4d42-bbc7-98977c342c6f/tgr11bg00shp.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/b9bf9fc4-0782-4ff3-96d1-6654f2e13caf/tgr11blk00shp.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/21905083-ef19-4d42-bbc7-98977c342c6f/tgr11bg00shp.derived.json
 layout: post
 
 ---
