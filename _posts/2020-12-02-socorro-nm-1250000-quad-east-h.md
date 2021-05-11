@@ -1,7 +1,7 @@
 ---
 title: 'Socorro, NM 1250,000 Quad East Half USGS Land Use/Land Cover, 2000'
-created: '2020-12-02T16:51:54.129454'
-modified: '2020-12-02T16:51:54.129462'
+created: '2020-12-02T16:47:10.886257'
+modified: '2020-12-02T16:47:10.886265'
 state: active
 type: dataset
 tags:
