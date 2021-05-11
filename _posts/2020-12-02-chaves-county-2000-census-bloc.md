@@ -1,7 +1,7 @@
 ---
-title: Chaves County 2000 Census Block Groups
-created: '2020-12-02T16:54:10.974820'
-modified: '2020-12-02T16:54:10.974831'
+title: Chaves County 2000 Census Blocks
+created: '2020-12-02T17:23:06.338752'
+modified: '2020-12-02T17:23:06.338764'
 state: active
 type: dataset
 tags:
@@ -32,9 +32,9 @@ tags:
   - Zip Code
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/1faa9b60-c80f-4335-a3d4-453f74f9f660/tgr5bg00shp.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/ddfdba60-1d6d-4986-b598-5951190abb2a/tgr5blk00shp.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/1faa9b60-c80f-4335-a3d4-453f74f9f660/tgr5bg00shp.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/ddfdba60-1d6d-4986-b598-5951190abb2a/tgr5blk00shp.derived.json
 layout: post
 
 ---
