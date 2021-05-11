@@ -1,7 +1,7 @@
 ---
-title: Sandoval County 2000 Census Block Groups
-created: '2020-12-02T16:58:21.348397'
-modified: '2020-12-02T16:58:21.348404'
+title: Sandoval  County 2000 Census Blocks
+created: '2020-12-02T17:28:54.209852'
+modified: '2020-12-02T17:28:54.209858'
 state: active
 type: dataset
 tags:
@@ -20,6 +20,7 @@ tags:
   - Point/node
   - Political Boundary
   - Polygon
+  - San Juan County
   - Sandoval County
   - Statistical Boundary
   - Street Centerline
@@ -27,14 +28,13 @@ tags:
   - Tiger/line
   - Tiger/line Identification Number (tlid)
   - Topology
-  - United States
   - Vector
   - Zip Code
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/97babdbc-05c6-4aae-8927-4c117fb553e6/tgr43bg00shp.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/7de1d318-21a3-4245-b6e1-58d5038d71f8/tgr43blk00shp.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/97babdbc-05c6-4aae-8927-4c117fb553e6/tgr43bg00shp.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/7de1d318-21a3-4245-b6e1-58d5038d71f8/tgr43blk00shp.derived.json
 layout: post
 
 ---
