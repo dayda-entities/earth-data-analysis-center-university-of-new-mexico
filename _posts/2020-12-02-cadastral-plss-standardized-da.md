@@ -1,18 +1,15 @@
 ---
-title: Cadastral PLSS Standardized Data - PLSSIntersected (Roswell) - Version 1.1
-created: '2020-12-02T17:22:40.757860'
-modified: '2020-12-02T17:22:40.757871'
+title: 'Cadastral PLSS Standardized Data - PLSSQuarterReference, NW - Version 1.1'
+created: '2020-12-02T17:37:10.323215'
+modified: '2020-12-02T17:37:10.323222'
 state: active
 type: dataset
 tags:
   - Cadastral
   - Cadastral Reference
-  - Data Steward
-  - Meandered Water
   - New Mexico
   - Plss
   - Plss Divisions
-  - Plss Special Surveys
   - Public Land Survey System
   - Section
   - Township
@@ -20,9 +17,9 @@ tags:
   - Usa
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/3b160cbe-af13-44b3-bac3-19943bba8a99/PLSSIntersected_ROSWELL.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/e8503b71-531e-4df1-9f78-4e19c9136c19/PLSSQuarterReference_NW.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/3b160cbe-af13-44b3-bac3-19943bba8a99/PLSSIntersected_ROSWELL.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/e8503b71-531e-4df1-9f78-4e19c9136c19/PLSSQuarterReference_NW.derived.json
 layout: post
 
 ---
@@ -30,7 +27,6 @@ layout: post
                 Infrastructure (NSDI) CADNSDI publication data set for rectangular and
                 non-rectangular Public Land Survey System (PLSS) data set. The metadata description
                 in the Cadastral Reference System Feature Data Set more fully describes the entire
-                data set. The fully intersected data is the atomic level of the PLSS that is similar
-                to the Esri coverage or the smallest pieces used to build the PLSS. Polygons may
-                overlap in this feature class. This feature class will also contain retired or
-                replaced areas of the PLSS. 
+                data set. The PLSS Quarter Section Reference feature class is a companion feature
+                class for the PLSS Reference Grid that provides a quarter section division of the
+                sections for reference only. 
