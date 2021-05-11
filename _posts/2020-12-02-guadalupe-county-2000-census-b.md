@@ -1,7 +1,7 @@
 ---
-title: Guadalupe  County 2000 Census Blocks
-created: '2020-12-02T16:45:28.827437'
-modified: '2020-12-02T16:45:28.827444'
+title: Guadalupe County 2000 Census Block Groups
+created: '2020-12-02T16:46:54.284202'
+modified: '2020-12-02T16:46:54.284209'
 state: active
 type: dataset
 tags:
@@ -32,9 +32,9 @@ tags:
   - Zip Code
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/b2ce034a-60a6-493c-a72c-0005415f2779/tgr19blk00shp.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/ea5ee21d-c499-4c35-a3fe-a76d6abbe14d/tgr19bg00shp.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/b2ce034a-60a6-493c-a72c-0005415f2779/tgr19blk00shp.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/ea5ee21d-c499-4c35-a3fe-a76d6abbe14d/tgr19bg00shp.derived.json
 layout: post
 
 ---
