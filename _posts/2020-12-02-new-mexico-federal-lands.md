@@ -1,0 +1,144 @@
+---
+title: New Mexico Federal Lands
+created: '2020-12-02T16:50:01.488420'
+modified: '2020-12-02T16:50:01.488428'
+state: active
+type: dataset
+tags:
+  - Agricultural Research Service
+  - Air Force
+  - Alabama
+  - Alaska
+  - Arizona
+  - Arkansas
+  - Army
+  - Army Corps Of Engineers
+  - Blm
+  - Bor
+  - Bureau Of Land Management
+  - Bureau Of Prisons
+  - Bureau Of Reclamation
+  - California
+  - Central Intelligence Agency
+  - Cia
+  - Colorado
+  - Connecticut
+  - Delaware
+  - Department Of Defense
+  - Department Of Energy
+  - Department Of Justice
+  - Department Of Transportation
+  - District Of Columbia
+  - Dod
+  - Doe
+  - Doj
+  - Dot
+  - Federal Lands
+  - Fish And Wildlife Service
+  - Florida
+  - Forest Reserve
+  - Forest Service
+  - Fs
+  - Fws
+  - General Services Administration
+  - Georgia
+  - Gsa
+  - Hawaii
+  - Idaho
+  - Illinois
+  - Indiana
+  - Iowa
+  - Kansas
+  - Kentucky
+  - Louisiana
+  - Maine
+  - Marine Corps
+  - Maryland
+  - Massachusetts
+  - Metropolitan Washington Airports Authority
+  - Michigan
+  - Minnesota
+  - Mississippi
+  - Missouri
+  - Montana
+  - Mwaa
+  - Nasa
+  - National Aeronautics And Space Administration
+  - National Battlefield
+  - National Battlefield Park
+  - National Capital Park
+  - National Conservation Area
+  - National Fish Hatchery
+  - National Forest
+  - National Grassland
+  - National Historic Landmark District
+  - National Historic Park
+  - National Historic Site
+  - National Lakeshore
+  - National Mall
+  - National Memorial
+  - National Military Park
+  - National Monument
+  - National Park
+  - National Park Service
+  - National Parkway
+  - National Preserve
+  - National Recreation Area
+  - National Reserve
+  - National River
+  - National Scenic Area
+  - National Seashore
+  - National Wild And Scenic River
+  - National Wildlife Refuge
+  - Navy
+  - Nebraska
+  - Nevada
+  - New Hampshire
+  - New Jersey
+  - New Mexico
+  - New York
+  - North Carolina
+  - North Dakota
+  - Nps
+  - Ohio
+  - Oklahoma
+  - Open Water
+  - Oregon
+  - Pennsylvania
+  - Polygon
+  - Public Domain Land
+  - Puerto Rico
+  - Purchase Unit Block
+  - Rhode Island
+  - South Carolina
+  - South Dakota
+  - Tennessee
+  - Tennessee Valley Authority
+  - Texas
+  - Tva
+  - U.s. Coast Guard
+  - U.s. Virgin Islands
+  - United States Department Of Agriculture
+  - Usa
+  - Usda
+  - Utah
+  - Vermont
+  - Virgin Islands
+  - Virginia
+  - Washington
+  - Waterfowl Production Area
+  - West Virginia
+  - Wilderness
+  - Wilderness Study Area
+  - Wildlife Management Area
+  - Wisconsin
+  - Wyoming
+groups: []
+csv_url: >-
+  http://gstore.unm.edu/apps/rgisarchive/datasets/745c32d9-bbac-4141-a2ba-bd60adb09710/nm_fedlands_08.derived.csv
+json_url: >-
+  http://gstore.unm.edu/apps/rgisarchive/datasets/745c32d9-bbac-4141-a2ba-bd60adb09710/nm_fedlands_08.derived.json
+layout: post
+
+---
+This map layer consists of federally owned or administered lands of the United States, Puerto Rico, and the U.S. Virgin Islands. Only areas of 640 acres or more are included. There may be private inholdings within the boundaries of Federal lands in this map layer. This is a revised version of the January 2005 map layer.
