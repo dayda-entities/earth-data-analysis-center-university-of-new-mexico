@@ -1,9 +1,9 @@
 ---
 title: >-
   NM OSE Geodetic Control Points within Land Grants with MS Access database,
-  (Geographic NAD83)
-created: '2020-12-02T17:37:20.442470'
-modified: '2020-12-02T17:37:20.442477'
+  (UTM, Zone 13, NAD83)
+created: '2020-12-02T17:22:20.308086'
+modified: '2020-12-02T17:22:20.308093'
 state: active
 type: dataset
 tags:
@@ -14,9 +14,9 @@ tags:
   - Survey
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/c8ebd491-506e-455b-a649-99a6109c5e37/seocontrol_dd83.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/8ea9f259-d1ee-41e3-9544-a95383bfb5bb/seocontrol_utm83.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/c8ebd491-506e-455b-a649-99a6109c5e37/seocontrol_dd83.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/8ea9f259-d1ee-41e3-9544-a95383bfb5bb/seocontrol_utm83.derived.json
 layout: post
 
 ---
