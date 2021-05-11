@@ -1,7 +1,7 @@
 ---
-title: 'Current State Senate Districts for Sandoval County, New Mexico, 2006se TIGER'
-created: '2020-12-02T17:38:58.322801'
-modified: '2020-12-02T17:38:58.322812'
+title: 'Current State Senate Districts for Lea County, New Mexico, 2006se TIGER'
+created: '2020-12-02T16:56:01.084969'
+modified: '2020-12-02T16:56:01.084975'
 state: active
 type: dataset
 tags:
@@ -9,18 +9,18 @@ tags:
   - Census Data
   - County
   - Current State Senate Districts
+  - Lea County
   - New Mexico
-  - Sandoval County
   - Tiger Data
   - United States
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/c311b2cf-0716-43f1-bd32-78432d4e4faa/tgr2006se_sand_slducu.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/b42ab982-63f8-4640-a3ac-618959ac89c0/tgr2006se_lea_slducu.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/c311b2cf-0716-43f1-bd32-78432d4e4faa/tgr2006se_sand_slducu.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/b42ab982-63f8-4640-a3ac-618959ac89c0/tgr2006se_lea_slducu.derived.json
 layout: post
 
 ---
 The 2006 Second Edition TIGER/Line files are an extract of selected geographic and cartographic information from the Census TIGER database.  The geographic coverage for a single TIGER/Line file is a county or statistical equivalent entity, with the coverage area based on the latest available governmental unit boundaries. The Census TIGER database represents a seamless national file with no overlaps or gaps between parts.  However, each county-based TIGER/Line file is designed to stand alone as an independent data set or the files can be combined to cover the whole Nation.  The 2006 Second Edition  TIGER/Line files consist of line segments representing physical features and governmental and statistical boundaries.  
 
-This shapefile represents the current State Senate Districts for Sandoval County stored in the 2006 TIGER Second Edition dataset.
+This shapefile represents the current State Senate Districts for Lea County stored in the 2006 TIGER Second Edition dataset.
