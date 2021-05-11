@@ -1,0 +1,204 @@
+---
+title: 'Gallup, NM 1250,000 Quad East Half USGS Land Use/Land Cover, 2000'
+created: '2020-12-02T17:29:56.536537'
+modified: '2020-12-02T17:29:56.536545'
+state: active
+type: dataset
+tags:
+  - Agua (historical)
+  - Agua Fria
+  - Alameda
+  - Albuquerque
+  - Algodones
+  - Angostura
+  - Arenal
+  - Armijo
+  - Atrisco
+  - Barelas
+  - Barton
+  - Bernalillo
+  - Blackwell Place
+  - Bland
+  - Bonanza City (historical)
+  - Briggs Place
+  - Buckman
+  - Buena Ventura
+  - Canada Village
+  - Canon
+  - Canoncito
+  - Carnuel
+  - Casa Loma
+  - Cavasos Place
+  - Cedar Crest
+  - Cedar Grove
+  - Cedro
+  - Cerrillos
+  - Chelwood Park
+  - Chical
+  - Cieneguilla
+  - Cochiti Lake
+  - Cochiti Pueblo
+  - Corrales
+  - Coyote (historical)
+  - Cuyamungue
+  - Deer Creek Landing
+  - Deer Lake
+  - Dennis Chaves Estates
+  - Dennison Place
+  - Dolores (historical)
+  - Domingo
+  - Edac
+  - Edc
+  - Edgewood
+  - Edgewood North
+  - El Chapparal
+  - El Llanito
+  - El Rancho
+  - El Refugio
+  - El Tablazon
+  - El Valle De Arroyo Seco
+  - Epa
+  - Eros
+  - Espanola
+  - Evergreen Hills Subdivision
+  - Five Points
+  - Forest Park
+  - Frijoles
+  - Frost (historical)
+  - Fruitvale (historical)
+  - Gallegos
+  - Gilman
+  - Golden
+  - Guachupangue
+  - Hagan (historical)
+  - Hahn
+  - Hoffmantown
+  - Horton Place
+  - Hyer
+  - Imagery
+  - Jacona
+  - Jaconita
+  - Jarett Place
+  - Jemez Pueblo
+  - Jemez Springs
+  - Johns Place
+  - Juan Tomas
+  - Kemp (historical)
+  - Kinney
+  - Kirtland Addition
+  - La Bajada
+  - La Cienega
+  - La Cuesta
+  - La Madera
+  - La Mesilla
+  - Lacy Place
+  - Lagunitas
+  - Land Characterization
+  - Land Cover
+  - Land Management
+  - Land Resources
+  - Land Use/land Cover
+  - Landsat
+  - Las Cocinitas
+  - Las Colonias
+  - Las Dos
+  - Las Huertas
+  - Laventana
+  - Lee Acres
+  - Los Alamos
+  - Los Candelarias
+  - Los Cerrilos
+  - Los Duranes
+  - Los Griegos
+  - Los Pinos
+  - Los Ranchos De Albuquerque
+  - Madrid
+  - Martin Place
+  - Martinez Town
+  - Mesa Village
+  - Montezuma (historical)
+  - Mosley Place
+  - Mrlc
+  - New Mexico
+  - Nm
+  - North America
+  - O'neil Landing
+  - Old Town
+  - Ortiz (historical)
+  - Otowi
+  - Otto
+  - P Simmons Place
+  - Pajarito
+  - Paradise Hills
+  - Pena Blanca
+  - Pines
+  - Placitas
+  - Pojoaque
+  - Ponderosa
+  - Porter
+  - Primera Agua
+  - Pueblo Of Sandia Village
+  - Puertecito
+  - Puye
+  - Quarteles
+  - Ranchito
+  - Rancho Valle
+  - Remote Sensing
+  - Rincon
+  - Rio Rancho
+  - Rio Rancho Estates (subdivision)
+  - Rivajana
+  - Riverside
+  - Rosario
+  - San Antonio
+  - San Antonito
+  - San Felipe Pueblo
+  - San Ildefonso Pueblo
+  - San Jose
+  - San Miguel
+  - San Pablo
+  - San Pedro
+  - San Ysidro
+  - Sandia Knolls
+  - Sandia Park
+  - Sandia Pueblo
+  - Sandia Vista
+  - Santa Ana Pueblo
+  - Santa Clara
+  - Santa Clara Pueblo
+  - Santa Cruz
+  - Santo Domingo Pueblo
+  - Santo Nino
+  - Satellite
+  - Sedillo
+  - Senorito
+  - Seven Springs
+  - Sierra De Los Pinos
+  - Sile
+  - Sombrillo
+  - Space Imaging
+  - Sulphur Springs
+  - Taylor Ranch
+  - Tecolote
+  - Tejon (historical)
+  - Tierra Monte Subdivision
+  - Tijeras
+  - Tinen Place
+  - Totavi
+  - United States Of America
+  - Upper Frijoles Crossing
+  - Usgs
+  - Vista Encantada
+  - Waldo (historical)
+  - White Rock
+  - Zamora
+  - Zia Pueblo
+groups: []
+csv_url: >-
+  http://gstore.unm.edu/apps/rgisarchive/datasets/bfe25cfc-cce5-4f07-94fe-e4a7d91ee66c/gallup_eastshp.derived.csv
+json_url: >-
+  http://gstore.unm.edu/apps/rgisarchive/datasets/bfe25cfc-cce5-4f07-94fe-e4a7d91ee66c/gallup_eastshp.derived.json
+layout: post
+
+---
+This land cover data set was produced as part of a cooperative project between the U.S. Geological Survey (USGS) and the U.S. Environmental Protection Agency (USEPA) to produce a consistent, land cover data layer for the conterminous U.S. based on 30-meter Landsat thematic mapper (TM) data. National Land Cover Data (NLCD) was developed from TM data acquired by the Multi-resoultion Land Characterization (MRLC) Consortium. The MRLC Consortium is a partnership of federal agencies that produce or use land cover data. Partners include the USGS (National Mapping, Biological Resources, and Water Resources Divisions), USEPA, the U.S. Forest Service, and the National Oceanic and Atmospheric Administration.
