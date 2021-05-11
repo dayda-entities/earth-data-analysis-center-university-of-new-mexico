@@ -1,9 +1,9 @@
 ---
 title: >-
   NM OSE Geodetic Control Points within Land Grants with MS Access database,
-  (UTM, Zone 13, NAD27)
-created: '2020-12-02T17:02:30.585178'
-modified: '2020-12-02T17:02:30.585185'
+  (Geographic NAD83)
+created: '2020-12-02T17:37:20.442470'
+modified: '2020-12-02T17:37:20.442477'
 state: active
 type: dataset
 tags:
@@ -14,11 +14,10 @@ tags:
   - Survey
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/4073e413-81d9-4033-ab46-59875af1e399/seocontrol_utm27.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/c8ebd491-506e-455b-a649-99a6109c5e37/seocontrol_dd83.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/4073e413-81d9-4033-ab46-59875af1e399/seocontrol_utm27.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/c8ebd491-506e-455b-a649-99a6109c5e37/seocontrol_dd83.derived.json
 layout: post
 
 ---
-This data set contains geodetic control points created for State Engineer
-                Office in 1974 in New Mexico inside land grant boundaries.
+This data set contains geodetic control points created for State Engineer Office in 1974 in New Mexico inside land grant boundaries.
