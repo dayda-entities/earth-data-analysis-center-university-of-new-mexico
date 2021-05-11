@@ -1,23 +1,23 @@
 ---
-title: 'Cadastral PLSS Standardized Data - PLSSTownship, SE - Version 1.1'
-created: '2020-12-02T17:25:40.755491'
-modified: '2020-12-02T17:25:40.755501'
+title: Cadastral PLSS Standardized Data - PLSSPoints (Clifton) - Version 1.1
+created: '2020-12-02T17:20:23.688040'
+modified: '2020-12-02T17:20:23.688047'
 state: active
 type: dataset
 tags:
   - Cadastral
-  - Cadastral Reference
+  - Data Steward
   - New Mexico
   - Plss
+  - Plss Corners
   - Public Land Survey System
-  - Township
   - United States
   - Usa
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/e152c93c-0ee6-4dbb-9919-c093b481ff59/PLSSTownship_SE.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/572e41fe-3de2-4c35-9981-0cd889ed8d98/PLSSPoints_CLIFTON.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/e152c93c-0ee6-4dbb-9919-c093b481ff59/PLSSTownship_SE.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/572e41fe-3de2-4c35-9981-0cd889ed8d98/PLSSPoints_CLIFTON.derived.json
 layout: post
 
 ---
@@ -25,7 +25,7 @@ layout: post
                 Infrastructure (NSDI) CADNSDI publication data set for rectangular and
                 non-rectangular Public Land Survey System (PLSS) data set. The metadata description
                 in the Cadastral Reference System Feature Data Set more fully describes the entire
-                data set. This feature class contains the Public Land Survey System Townships which
-                are the primary unit of survey for the PLSS, nominally six miles on a side, usually
-                containing 36 sections. PLSS Townships are numbered from base lines and principal
-                meridians. 
+                data set. These are the corners of the PLSS. This feature class contains summary
+                information about the coordinate location and reliability of corner coordinate
+                information. alternate names or aliases for corners are also inlcuded in this
+                feature class. 
