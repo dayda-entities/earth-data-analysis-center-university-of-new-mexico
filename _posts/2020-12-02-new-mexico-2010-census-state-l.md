@@ -1,9 +1,9 @@
 ---
 title: >-
-  New Mexico, 2010 Census State Legislative District (SLD) Lower Chamber
+  New Mexico, 2010 Census State Legislative District (SLD) Upper Chamber
   State-based
-created: '2020-12-02T16:55:51.662311'
-modified: '2020-12-02T16:55:51.662318'
+created: '2020-12-02T17:32:17.844405'
+modified: '2020-12-02T17:32:17.844412'
 state: active
 type: dataset
 tags:
@@ -17,9 +17,9 @@ tags:
   - United States
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/14dbd2d0-7058-4a79-8e44-ecc0ef0cbe7c/tl_2010_35_sldl10.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/91fab677-eb68-4b3e-8cd8-59f5a98b4705/tl_2010_35_sldu10.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/14dbd2d0-7058-4a79-8e44-ecc0ef0cbe7c/tl_2010_35_sldl10.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/91fab677-eb68-4b3e-8cd8-59f5a98b4705/tl_2010_35_sldu10.derived.json
 layout: post
 
 ---
