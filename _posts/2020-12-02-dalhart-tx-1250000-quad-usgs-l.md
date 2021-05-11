@@ -1,7 +1,7 @@
 ---
 title: 'Dalhart, TX 1250,000 Quad USGS Land Use/Land Cover, 2000'
-created: '2020-12-02T17:03:16.197472'
-modified: '2020-12-02T17:03:16.197480'
+created: '2020-12-02T16:59:50.695815'
+modified: '2020-12-02T16:59:50.695823'
 state: active
 type: dataset
 tags:
