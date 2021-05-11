@@ -1,7 +1,7 @@
 ---
-title: LABOR FORCE Employment Status of Females 16 Yrs and Over NMSD 2000
-created: '2020-12-02T16:44:36.640642'
-modified: '2020-12-02T16:44:36.640652'
+title: LABOR FORCE Employment Status of Males 16 Yrs and Over NMSD 2000
+created: '2020-12-02T16:47:37.673635'
+modified: '2020-12-02T16:47:37.673642'
 state: active
 type: dataset
 tags:
@@ -14,9 +14,9 @@ tags:
   - United States
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/f8c71d3a-c2ed-4fd6-b45b-3f829f2271b6/nms264data549632190_sts_view.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/898c6825-8fec-4816-b6c1-2c6dc0aab12d/nms263data224926151_sts_view.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/f8c71d3a-c2ed-4fd6-b45b-3f829f2271b6/nms264data549632190_sts_view.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/898c6825-8fec-4816-b6c1-2c6dc0aab12d/nms263data224926151_sts_view.derived.json
 layout: post
 
 ---
