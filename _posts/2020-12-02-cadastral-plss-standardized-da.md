@@ -1,9 +1,7 @@
 ---
-title: >-
-  Cadastral PLSS Standardized Data - PLSSSecond Division (Las Cruces) - Version
-  1.1
-created: '2020-12-02T17:38:16.208228'
-modified: '2020-12-02T17:38:16.208239'
+title: Cadastral PLSS Standardized Data - PLSSSecond Division (Douglas) - Version 1.1
+created: '2020-12-02T16:53:09.371797'
+modified: '2020-12-02T16:53:09.371805'
 state: active
 type: dataset
 tags:
@@ -19,9 +17,9 @@ tags:
   - Usa
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/5d65930f-f4f5-46d6-9c63-c2f837300c32/PLSSSecond_Division_LAS_CRUCES.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/64e5206b-0927-49f6-89c7-14fdbf271ad8/PLSSSecond_Division_DOUGLAS.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/5d65930f-f4f5-46d6-9c63-c2f837300c32/PLSSSecond_Division_LAS_CRUCES.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/64e5206b-0927-49f6-89c7-14fdbf271ad8/PLSSSecond_Division_DOUGLAS.derived.json
 layout: post
 
 ---
