@@ -1,29 +1,29 @@
 ---
 title: >-
-  Miscellaneous Ground Transportation (Utilities) for Luna County, New Mexico,
-  2006se TIGER
-created: '2020-12-02T17:34:25.884244'
-modified: '2020-12-02T17:34:25.884251'
+  Miscellaneous Ground Transportation (Utilities) for Torrance County, New
+  Mexico, 2006se TIGER
+created: '2020-12-02T17:00:46.671988'
+modified: '2020-12-02T17:00:46.671995'
 state: active
 type: dataset
 tags:
   - 2006 Tiger Second Edition
   - Census Data
   - County
-  - Luna County
   - New Mexico
   - Tiger Data
+  - Torrance County
   - Transportation
   - United States
   - Utilities
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/133432c5-6087-4f3c-87e7-1f2d0f61bdb7/tgr2006se_luna_lkc.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/acdb0a8b-1cec-47d0-a208-3a156fe4a718/tgr2006se_torr_lkc.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/133432c5-6087-4f3c-87e7-1f2d0f61bdb7/tgr2006se_luna_lkc.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/acdb0a8b-1cec-47d0-a208-3a156fe4a718/tgr2006se_torr_lkc.derived.json
 layout: post
 
 ---
 The 2006 Second Edition TIGER/Line files are an extract of selected geographic and cartographic information from the Census TIGER database.  The geographic coverage for a single TIGER/Line file is a county or statistical equivalent entity, with the coverage area based on the latest available governmental unit boundaries. The Census TIGER database represents a seamless national file with no overlaps or gaps between parts.  However, each county-based TIGER/Line file is designed to stand alone as an independent data set or the files can be combined to cover the whole Nation.  The 2006 Second Edition  TIGER/Line files consist of line segments representing physical features and governmental and statistical boundaries.  
 
-This shapefile represents miscellaneous ground transportation (utilities) stored in the 2006 TIGER Second Edition dataset for Luna County, NM.
+This shapefile represents miscellaneous ground transportation (utilities) stored in the 2006 TIGER Second Edition dataset for Torrance County, NM.
