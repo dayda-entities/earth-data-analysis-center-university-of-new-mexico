@@ -1,23 +1,24 @@
 ---
-title: Cadastral PLSS Standardized Data - PLSSPoints (Las Cruces) - Version 1.1
-created: '2020-12-02T17:38:20.973729'
-modified: '2020-12-02T17:38:20.973736'
+title: 'Cadastral PLSS Standardized Data - PLSSReferenceGrid, NW - Version 1.1'
+created: '2020-12-02T17:38:36.003960'
+modified: '2020-12-02T17:38:36.003970'
 state: active
 type: dataset
 tags:
   - Cadastral
-  - Data Steward
+  - Cadastral Reference
   - New Mexico
   - Plss
-  - Plss Corners
   - Public Land Survey System
+  - Section
+  - Township
   - United States
   - Usa
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/c26da0f5-e3b6-4874-b54a-eab0a9476129/PLSSPoints_LAS_CRUCES.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/0c66d754-d6ad-41b0-a55b-e5ae65f3caf1/PLSSReferenceGrid_NW.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/c26da0f5-e3b6-4874-b54a-eab0a9476129/PLSSPoints_LAS_CRUCES.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/0c66d754-d6ad-41b0-a55b-e5ae65f3caf1/PLSSReferenceGrid_NW.derived.json
 layout: post
 
 ---
@@ -25,7 +26,9 @@ layout: post
                 Infrastructure (NSDI) CADNSDI publication data set for rectangular and
                 non-rectangular Public Land Survey System (PLSS) data set. The metadata description
                 in the Cadastral Reference System Feature Data Set more fully describes the entire
-                data set. These are the corners of the PLSS. This feature class contains summary
-                information about the coordinate location and reliability of corner coordinate
-                information. alternate names or aliases for corners are also inlcuded in this
-                feature class. 
+                data set. The PLSS Reference Grid is a generalized data set providing the Township
+                and First Divisions of the PLSS as a separate feature class to support data
+                requests, mapping and indexing. The spatial location and position and attributes of
+                this feature class are the same as those in the primary data sets from which this
+                data is built. These data are often used for map sheet layouts and general location
+                reference 
