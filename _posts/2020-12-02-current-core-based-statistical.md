@@ -1,9 +1,9 @@
 ---
 title: >-
-  Current Core Based Statistical Areas for Otero County, New Mexico, 2006se
+  Current Core Based Statistical Areas for Roosevelt County, New Mexico, 2006se
   TIGER
-created: '2020-12-02T17:25:41.857404'
-modified: '2020-12-02T17:25:41.857411'
+created: '2020-12-02T17:23:41.766569'
+modified: '2020-12-02T17:23:41.766579'
 state: active
 type: dataset
 tags:
@@ -12,17 +12,17 @@ tags:
   - County
   - Current Core Based Statistical Areas
   - New Mexico
-  - Otero County
+  - Roosevelt County
   - Tiger Data
   - United States
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/5504fab2-62ec-4d91-93c0-761f3802bbea/tgr2006se_oter_cbsacu.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/e325da88-5759-4dc4-ab76-1b64d2525291/tgr2006se_roos_cbsacu.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/5504fab2-62ec-4d91-93c0-761f3802bbea/tgr2006se_oter_cbsacu.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/e325da88-5759-4dc4-ab76-1b64d2525291/tgr2006se_roos_cbsacu.derived.json
 layout: post
 
 ---
 The 2006 Second Edition TIGER/Line files are an extract of selected geographic and cartographic information from the Census TIGER database.  The geographic coverage for a single TIGER/Line file is a county or statistical equivalent entity, with the coverage area based on the latest available governmental unit boundaries. The Census TIGER database represents a seamless national file with no overlaps or gaps between parts.  However, each county-based TIGER/Line file is designed to stand alone as an independent data set or the files can be combined to cover the whole Nation.  The 2006 Second Edition  TIGER/Line files consist of line segments representing physical features and governmental and statistical boundaries.  
 
-This shapefile represents the current Core Based Statistical Areas in the 2006 TIGER Second Edition dataset for Otero County, NM.
+This shapefile represents the current Core Based Statistical Areas in the 2006 TIGER Second Edition dataset for Roosevelt County, NM.
