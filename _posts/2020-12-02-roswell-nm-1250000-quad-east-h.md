@@ -1,7 +1,7 @@
 ---
 title: 'Roswell, NM 1250,000 Quad East Half USGS Land Use/Land Cover, 2000'
-created: '2020-12-02T17:32:17.472704'
-modified: '2020-12-02T17:32:17.472716'
+created: '2020-12-02T17:22:14.809691'
+modified: '2020-12-02T17:22:14.809702'
 state: active
 type: dataset
 tags:
