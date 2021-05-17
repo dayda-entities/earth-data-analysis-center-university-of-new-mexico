@@ -1,7 +1,7 @@
 ---
-title: Torrance  County 2000 Census Blocks
-created: '2020-12-02T17:37:05.961166'
-modified: '2020-12-02T17:37:05.961173'
+title: Torrance County 2000 Census Block Groups
+created: '2020-12-02T17:33:00.421589'
+modified: '2020-12-02T17:33:00.421596'
 state: active
 type: dataset
 tags:
@@ -32,9 +32,9 @@ tags:
   - Zip Code
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/dc9f505e-2888-4ad9-b0a0-5577ba839a79/tgr57blk00shp.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/a56e374f-dbc0-4ad6-a1e7-ff842d9a0c06/tgr57bg00shp.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/dc9f505e-2888-4ad9-b0a0-5577ba839a79/tgr57blk00shp.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/a56e374f-dbc0-4ad6-a1e7-ff842d9a0c06/tgr57bg00shp.derived.json
 layout: post
 
 ---
