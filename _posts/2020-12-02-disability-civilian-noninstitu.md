@@ -1,7 +1,7 @@
 ---
-title: DISABILITY Civilian Noninstitutional Females by Age NMSD 2000
-created: '2020-12-02T17:32:02.933651'
-modified: '2020-12-02T17:32:02.933658'
+title: DISABILITY Civilian Noninstitutional Males by Age NMSD 2000
+created: '2020-12-02T16:59:11.036120'
+modified: '2020-12-02T16:59:11.036127'
 state: active
 type: dataset
 tags:
@@ -14,9 +14,9 @@ tags:
   - United States
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/2710f76b-c1c1-4139-8036-cdee3804b8d0/nms283data35833678_sts_view.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/718fb3a2-d864-4825-a44a-23273fc8d6e5/nms282data756810689_sts_view.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/2710f76b-c1c1-4139-8036-cdee3804b8d0/nms283data35833678_sts_view.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/718fb3a2-d864-4825-a44a-23273fc8d6e5/nms282data756810689_sts_view.derived.json
 layout: post
 
 ---
