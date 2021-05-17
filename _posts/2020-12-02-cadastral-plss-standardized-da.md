@@ -1,7 +1,7 @@
 ---
-title: Cadastral PLSS Standardized Data - PLSSIntersected (Santa Fe) - Version 1.1
-created: '2020-12-02T17:38:55.926919'
-modified: '2020-12-02T17:38:55.926926'
+title: Cadastral PLSS Standardized Data - PLSSIntersected (Carlsbad) - Version 1.1
+created: '2020-12-02T17:01:28.203315'
+modified: '2020-12-02T17:01:28.203322'
 state: active
 type: dataset
 tags:
@@ -20,9 +20,9 @@ tags:
   - Usa
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/baec9ba5-08ae-49a9-8e31-b8bd297cc243/PLSSIntersected_SANTA_FE.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/1d4719a9-948e-4584-a1d4-8300fad27691/PLSSIntersected_CARLSBAD.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/baec9ba5-08ae-49a9-8e31-b8bd297cc243/PLSSIntersected_SANTA_FE.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/1d4719a9-948e-4584-a1d4-8300fad27691/PLSSIntersected_CARLSBAD.derived.json
 layout: post
 
 ---
