@@ -1,18 +1,15 @@
 ---
-title: Cadastral PLSS Standardized Data - PLSSIntersected (Hobbs) - Version 1.1
-created: '2020-12-02T16:58:37.949379'
-modified: '2020-12-02T16:58:37.949386'
+title: Cadastral PLSS Standardized Data - PLSSSecond Division (El Paso) - Version 1.1
+created: '2020-12-02T17:27:00.141328'
+modified: '2020-12-02T17:27:00.141335'
 state: active
 type: dataset
 tags:
   - Cadastral
   - Cadastral Reference
-  - Data Steward
-  - Meandered Water
   - New Mexico
   - Plss
   - Plss Divisions
-  - Plss Special Surveys
   - Public Land Survey System
   - Section
   - Township
@@ -20,9 +17,9 @@ tags:
   - Usa
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/cb6e1260-d574-4a7f-a127-d4cfc25600c7/PLSSIntersected_HOBBS.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/c73c0b86-998a-4af7-afe0-ac0ccf61ea60/PLSSSecond_Division_EL_PASO.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/cb6e1260-d574-4a7f-a127-d4cfc25600c7/PLSSIntersected_HOBBS.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/c73c0b86-998a-4af7-afe0-ac0ccf61ea60/PLSSSecond_Division_EL_PASO.derived.json
 layout: post
 
 ---
@@ -30,7 +27,10 @@ layout: post
                 Infrastructure (NSDI) CADNSDI publication data set for rectangular and
                 non-rectangular Public Land Survey System (PLSS) data set. The metadata description
                 in the Cadastral Reference System Feature Data Set more fully describes the entire
-                data set. The fully intersected data is the atomic level of the PLSS that is similar
-                to the Esri coverage or the smallest pieces used to build the PLSS. Polygons may
-                overlap in this feature class. This feature class will also contain retired or
-                replaced areas of the PLSS. 
+                data set. This feature class is the second division of the PLSS is quarter,
+                quarter-quarter, sixteenth or government lot divisions of the PLSS. The second and
+                third divisions are combined into this feature class as an intentional
+                de-normalization of the PLSS hierarchical data. The polygons in this feature class
+                represent the smallest division to the sixteenth that has been defined for the first
+                division. For example In some cases sections have only been divided to the quarter.
+                Divisions below the sixteenth are in the Special Survey or Parcel Feature Class. 
