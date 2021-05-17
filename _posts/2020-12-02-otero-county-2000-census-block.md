@@ -1,7 +1,7 @@
 ---
-title: Otero County 2000 Census Block Groups
-created: '2020-12-02T17:02:20.758636'
-modified: '2020-12-02T17:02:20.758647'
+title: Otero  County 2000 Census Blocks
+created: '2020-12-02T16:58:29.181682'
+modified: '2020-12-02T16:58:29.181689'
 state: active
 type: dataset
 tags:
@@ -32,9 +32,9 @@ tags:
   - Zip Code
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/ebc3b38a-f6ac-4b2f-a2fa-d0b6396261fe/tgr35bg00shp.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/031dd570-0974-41f6-8dc3-4f72b63c58c9/tgr35blk00shp.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/ebc3b38a-f6ac-4b2f-a2fa-d0b6396261fe/tgr35bg00shp.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/031dd570-0974-41f6-8dc3-4f72b63c58c9/tgr35blk00shp.derived.json
 layout: post
 
 ---
