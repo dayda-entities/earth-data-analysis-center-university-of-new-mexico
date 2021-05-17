@@ -1,7 +1,7 @@
 ---
 title: 'Silver City, NM 1250,000 Quad West Half USGS Land Use/Land Cover, 2000'
-created: '2020-12-02T17:29:18.577986'
-modified: '2020-12-02T17:29:18.577993'
+created: '2020-12-02T17:33:35.300992'
+modified: '2020-12-02T17:33:35.300999'
 state: active
 type: dataset
 tags:
