@@ -1,7 +1,7 @@
 ---
-title: Cadastral PLSS Standardized Data - PLSSIntersected (Dalhart) - Version 1.1
-created: '2020-12-02T16:51:59.694980'
-modified: '2020-12-02T16:51:59.694987'
+title: Cadastral PLSS Standardized Data - PLSSIntersected (Santa Fe) - Version 1.1
+created: '2020-12-02T17:38:55.926919'
+modified: '2020-12-02T17:38:55.926926'
 state: active
 type: dataset
 tags:
@@ -20,9 +20,9 @@ tags:
   - Usa
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/69cab9c1-e33d-47b5-beec-7eecedc8ad7c/PLSSIntersected_DALHART.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/baec9ba5-08ae-49a9-8e31-b8bd297cc243/PLSSIntersected_SANTA_FE.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/69cab9c1-e33d-47b5-beec-7eecedc8ad7c/PLSSIntersected_DALHART.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/baec9ba5-08ae-49a9-8e31-b8bd297cc243/PLSSIntersected_SANTA_FE.derived.json
 layout: post
 
 ---
