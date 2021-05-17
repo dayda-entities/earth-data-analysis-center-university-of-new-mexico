@@ -1,7 +1,7 @@
 ---
-title: NM Gross Receipts July - December 2012
-created: '2020-12-02T17:25:27.682039'
-modified: '2020-12-02T17:25:27.682046'
+title: NM Gross Receipts July - December 2013
+created: '2020-12-02T17:29:03.458911'
+modified: '2020-12-02T17:29:03.458918'
 state: active
 type: dataset
 tags:
@@ -19,9 +19,9 @@ tags:
   - United States
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/22b349ec-1ef8-48e2-aa62-3643db415f0b/Nmgrossreceipts_JulyDec2012.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/88817830-fcbd-473d-abe7-cca4a1837569/nmgross713.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/22b349ec-1ef8-48e2-aa62-3643db415f0b/Nmgrossreceipts_JulyDec2012.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/88817830-fcbd-473d-abe7-cca4a1837569/nmgross713.derived.json
 layout: post
 
 ---
