@@ -1,7 +1,7 @@
 ---
-title: 'Rio Grande Channel, Northern Mesilla Valley, NM, 1907'
-created: '2020-12-02T17:35:17.191461'
-modified: '2020-12-02T17:35:17.191467'
+title: 'Rio Grande Channel, Northern Mesilla Valley, NM, before 1844'
+created: '2020-12-02T16:58:18.120142'
+modified: '2020-12-02T16:58:18.120149'
 state: active
 type: dataset
 tags:
@@ -10,10 +10,10 @@ tags:
   - Rio Grande
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/05a7c7c3-f2f1-4a7c-af0c-c7c11e3a2ca9/mesn1907shp.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/8186ef0e-c7af-4002-9759-1c3432db4758/mnp1844shp.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/05a7c7c3-f2f1-4a7c-af0c-c7c11e3a2ca9/mesn1907shp.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/8186ef0e-c7af-4002-9759-1c3432db4758/mnp1844shp.derived.json
 layout: post
 
 ---
-Map of Mesilla Valley showing 1907 Rio Grande River channel. Scale 1 inch - 1 mile.
+Map of Mesilla Valley showing channel of the Rio Grande River previous to 1844. Scale 1 inch - 1 mile.
