@@ -1,18 +1,25 @@
 ---
-title: EDUCATION Percent Persons by Detailed Ed Attain Category SDs 2000
-created: '2020-12-02T17:32:30.697508'
-modified: '2020-12-02T17:32:30.697518'
+title: EDUCATION Percent Persons by Detailed Ed Attain Category NMSD 2000
+created: '2020-12-02T17:03:56.212831'
+modified: '2020-12-02T17:03:56.212838'
 state: active
 type: dataset
 tags:
+  - 2006 Tiger Second Edition
+  - Census Data
+  - County
+  - Current State Senate Districts
   - New Mexico
-  - Unified School Districts
+  - Tiger Data
+  - United States
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/ee82b8ca-56e9-4528-bfa4-7ac9895b1d8c/ksd252data734960906_schd_view.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/be7af174-17f4-4a93-a08a-88e301b7a17d/nms252data637365624_sts_view.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/ee82b8ca-56e9-4528-bfa4-7ac9895b1d8c/ksd252data734960906_schd_view.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/be7af174-17f4-4a93-a08a-88e301b7a17d/nms252data637365624_sts_view.derived.json
 layout: post
 
 ---
-The New Mexico 2000 Unified School Districts layer was derived from  the TIGER Line files from the US Census Bureau. The districts are clipped to the state boundaries, and available for download from the website.
+The 2006 Second Edition TIGER/Line files are an extract of selected geographic and cartographic information from the Census TIGER database.  The geographic coverage for a single TIGER/Line file is a county or statistical equivalent entity, with the coverage area based on the latest available governmental unit boundaries. The Census TIGER database represents a seamless national file with no overlaps or gaps between parts.  However, each county-based TIGER/Line file is designed to stand alone as an independent data set or the files can be combined to cover the whole Nation.  The 2006 Second Edition  TIGER/Line files consist of line segments representing physical features and governmental and statistical boundaries.  
+
+This shapefile represents the current State Senate Districts for New Mexico as posted on the Census Bureau website for 2006.
