@@ -1,7 +1,7 @@
 ---
-title: Santa Fe  County 2000 Census Blocks
-created: '2020-12-02T16:54:45.684646'
-modified: '2020-12-02T16:54:45.684653'
+title: Santa Fe County 2000 Census Block Groups
+created: '2020-12-02T17:21:43.413872'
+modified: '2020-12-02T17:21:43.413879'
 state: active
 type: dataset
 tags:
@@ -32,9 +32,9 @@ tags:
   - Zip Code
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/12d35c61-66da-482a-b543-99515906004a/tgr49blk00shp.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/dd72e8f1-8ccb-4636-af5e-b26411ccd460/tgr49bg00shp.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/12d35c61-66da-482a-b543-99515906004a/tgr49blk00shp.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/dd72e8f1-8ccb-4636-af5e-b26411ccd460/tgr49bg00shp.derived.json
 layout: post
 
 ---
