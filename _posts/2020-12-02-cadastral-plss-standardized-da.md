@@ -1,25 +1,23 @@
 ---
-title: Cadastral PLSS Standardized Data - PLSSSecond Division (Douglas) - Version 1.1
-created: '2020-12-02T16:53:09.371797'
-modified: '2020-12-02T16:53:09.371805'
+title: Cadastral PLSS Standardized Data - PLSSPoints (Las Cruces) - Version 1.1
+created: '2020-12-02T17:38:20.973729'
+modified: '2020-12-02T17:38:20.973736'
 state: active
 type: dataset
 tags:
   - Cadastral
-  - Cadastral Reference
+  - Data Steward
   - New Mexico
   - Plss
-  - Plss Divisions
+  - Plss Corners
   - Public Land Survey System
-  - Section
-  - Township
   - United States
   - Usa
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/64e5206b-0927-49f6-89c7-14fdbf271ad8/PLSSSecond_Division_DOUGLAS.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/c26da0f5-e3b6-4874-b54a-eab0a9476129/PLSSPoints_LAS_CRUCES.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/64e5206b-0927-49f6-89c7-14fdbf271ad8/PLSSSecond_Division_DOUGLAS.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/c26da0f5-e3b6-4874-b54a-eab0a9476129/PLSSPoints_LAS_CRUCES.derived.json
 layout: post
 
 ---
@@ -27,10 +25,7 @@ layout: post
                 Infrastructure (NSDI) CADNSDI publication data set for rectangular and
                 non-rectangular Public Land Survey System (PLSS) data set. The metadata description
                 in the Cadastral Reference System Feature Data Set more fully describes the entire
-                data set. This feature class is the second division of the PLSS is quarter,
-                quarter-quarter, sixteenth or government lot divisions of the PLSS. The second and
-                third divisions are combined into this feature class as an intentional
-                de-normalization of the PLSS hierarchical data. The polygons in this feature class
-                represent the smallest division to the sixteenth that has been defined for the first
-                division. For example In some cases sections have only been divided to the quarter.
-                Divisions below the sixteenth are in the Special Survey or Parcel Feature Class. 
+                data set. These are the corners of the PLSS. This feature class contains summary
+                information about the coordinate location and reliability of corner coordinate
+                information. alternate names or aliases for corners are also inlcuded in this
+                feature class. 
