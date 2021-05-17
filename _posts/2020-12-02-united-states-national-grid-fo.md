@@ -1,7 +1,7 @@
 ---
-title: 'United States National Grid for New Mexico, UTM 13, (1000m X 1000m polygons )'
-created: '2020-12-02T16:50:40.291724'
-modified: '2020-12-02T16:50:40.291730'
+title: 'United States National Grid for New Mexico, UTM 12, (1000m X 1000m polygons )'
+created: '2020-12-02T17:01:14.815576'
+modified: '2020-12-02T17:01:14.815583'
 state: active
 type: dataset
 tags:
@@ -9,9 +9,9 @@ tags:
   - Usng
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/44cdaeb5-755e-4608-8177-c45e00d56eaf/nm_usng_utm13.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/c5a651c4-f698-456a-abc9-a5d0459135bd/nm_usng_utm12.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/44cdaeb5-755e-4608-8177-c45e00d56eaf/nm_usng_utm13.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/c5a651c4-f698-456a-abc9-a5d0459135bd/nm_usng_utm12.derived.json
 layout: post
 
 ---
