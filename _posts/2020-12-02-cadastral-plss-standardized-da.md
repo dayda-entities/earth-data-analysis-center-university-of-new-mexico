@@ -1,7 +1,7 @@
 ---
-title: Cadastral PLSS Standardized Data - PLSSIntersected (Clovis) - Version 1.1
-created: '2020-12-02T17:31:03.310209'
-modified: '2020-12-02T17:31:03.310217'
+title: Cadastral PLSS Standardized Data - PLSSIntersected (Brownfield) - Version 1.1
+created: '2020-12-02T17:31:39.281332'
+modified: '2020-12-02T17:31:39.281339'
 state: active
 type: dataset
 tags:
@@ -20,9 +20,9 @@ tags:
   - Usa
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/45155924-687b-4875-ac4e-600af8d22caf/PLSSIntersected_CLOVIS.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/e0f02fb0-d819-4222-97cd-b8e69bbe681e/PLSSIntersected_BROWNFIELD.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/45155924-687b-4875-ac4e-600af8d22caf/PLSSIntersected_CLOVIS.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/e0f02fb0-d819-4222-97cd-b8e69bbe681e/PLSSIntersected_BROWNFIELD.derived.json
 layout: post
 
 ---
