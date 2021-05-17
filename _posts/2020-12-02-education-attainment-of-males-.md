@@ -1,25 +1,18 @@
 ---
-title: EDUCATION Attainment of Males by Detailed Category NMHD 2000
-created: '2020-12-02T16:48:44.885951'
-modified: '2020-12-02T16:48:44.885957'
+title: EDUCATION Attainment of Males by Detailed Category SDs 2000
+created: '2020-12-02T17:02:13.502009'
+modified: '2020-12-02T17:02:13.502015'
 state: active
 type: dataset
 tags:
-  - 2006 Tiger Second Edition
-  - Census Data
-  - County
-  - Current State House Districts
   - New Mexico
-  - Tiger Data
-  - United States
+  - Unified School Districts
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/46c32c26-5272-4047-a338-183485a2c71c/nmh247data681486855_sth_view.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/c0ae80c9-4e59-4e70-bbf7-f5009c203ccc/ksd247data171146765_schd_view.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/46c32c26-5272-4047-a338-183485a2c71c/nmh247data681486855_sth_view.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/c0ae80c9-4e59-4e70-bbf7-f5009c203ccc/ksd247data171146765_schd_view.derived.json
 layout: post
 
 ---
-The 2006 Second Edition TIGER/Line files are an extract of selected geographic and cartographic information from the Census TIGER database.  The geographic coverage for a single TIGER/Line file is a county or statistical equivalent entity, with the coverage area based on the latest available governmental unit boundaries. The Census TIGER database represents a seamless national file with no overlaps or gaps between parts.  However, each county-based TIGER/Line file is designed to stand alone as an independent data set or the files can be combined to cover the whole Nation.  The 2006 Second Edition  TIGER/Line files consist of line segments representing physical features and governmental and statistical boundaries.  
-
-This shapefile represents the current State House Districts for New Mexico as posted on the Census Bureau website for 2006.
+The New Mexico 2000 Unified School Districts layer was derived from  the TIGER Line files from the US Census Bureau. The districts are clipped to the state boundaries, and available for download from the website.
