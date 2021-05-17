@@ -1,7 +1,7 @@
 ---
-title: Valencia  County 2000 Census Blocks
-created: '2020-12-02T16:55:48.540647'
-modified: '2020-12-02T16:55:48.540654'
+title: Valencia County 2000 Census Block Groups
+created: '2020-12-02T17:03:12.418245'
+modified: '2020-12-02T17:03:12.418252'
 state: active
 type: dataset
 tags:
@@ -32,9 +32,9 @@ tags:
   - Zip Code
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/3cfd22c4-d1fa-4085-9e2b-b212efef02e8/tgr61blk00shp.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/c365d77b-d2cd-4c39-a186-e4be7e116998/tgr61bg00shp.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/3cfd22c4-d1fa-4085-9e2b-b212efef02e8/tgr61blk00shp.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/c365d77b-d2cd-4c39-a186-e4be7e116998/tgr61bg00shp.derived.json
 layout: post
 
 ---
