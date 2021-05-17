@@ -1,7 +1,7 @@
 ---
-title: Cibola County 2000 Census Block Groups
-created: '2020-12-02T17:03:43.405906'
-modified: '2020-12-02T17:03:43.405917'
+title: Cibola County 2000 Census Blocks
+created: '2020-12-02T16:48:36.101194'
+modified: '2020-12-02T16:48:36.101201'
 state: active
 type: dataset
 tags:
@@ -32,9 +32,9 @@ tags:
   - Zip Code
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/d91534bf-1335-4f1e-9686-825f70bdefff/tgr6bg00shp.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/3e000edf-d486-4d7d-a43f-75cbf3ebbdc8/tgr6blk00shp.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/d91534bf-1335-4f1e-9686-825f70bdefff/tgr6bg00shp.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/3e000edf-d486-4d7d-a43f-75cbf3ebbdc8/tgr6blk00shp.derived.json
 layout: post
 
 ---
