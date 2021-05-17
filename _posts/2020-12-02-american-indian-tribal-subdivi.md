@@ -1,27 +1,27 @@
 ---
 title: >-
-  American Indian Tribal Subdivision Areas for Bernalillo County, New Mexico,
-  2000 Census
-created: '2020-12-02T17:03:36.069499'
-modified: '2020-12-02T17:03:36.069506'
+  American Indian Tribal Subdivision Areas for Cibola County, New Mexico, 2000
+  Census
+created: '2020-12-02T16:47:17.862945'
+modified: '2020-12-02T16:47:17.862953'
 state: active
 type: dataset
 tags:
   - Alaska Native Areas
   - American Indian Lands
-  - Bernalillo County
+  - Cibola County
   - County
   - Hawaiian Homeland
   - New Mexico
   - United States
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/a12dc6cb-9d24-44c6-b7a3-e84948fb3052/tgr2006se_bern_aits00.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/e1344437-0fc5-47b0-a9ba-88fbae5d0d2d/tgr2006se_cibo_aits00.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/a12dc6cb-9d24-44c6-b7a3-e84948fb3052/tgr2006se_bern_aits00.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/e1344437-0fc5-47b0-a9ba-88fbae5d0d2d/tgr2006se_cibo_aits00.derived.json
 layout: post
 
 ---
 The 2006 Second Edition  TIGER/Line files are an extract of selected geographic and cartographic information from the Census TIGER database.  The geographic coverage for a single TIGER/Line file is a county or statistical equivalent entity, with the coverage area based on the latest available governmental unit boundaries.  The Census TIGER database represents a seamless national file with no overlaps or gaps between parts.  However, each county-based TIGER/Line file is designed to stand alone as an independent data set or the files can be combined to cover the whole Nation.  The 2006 Second Edition  TIGER/Line files consist of line segments representing physical features and governmental and statistical boundaries.  
 
-This shapefile represents a subset of the 2006 TIGER dataset. It shows the American Indian Tribal Subdivision areas that fall within Bernalillo County, NM from the 2000 Census data.
+This shapefile represents a subset of the 2006 TIGER dataset. It shows the American Indian Tribal Subdivision areas that fall within Cibola County, NM from the 2000 Census data.
