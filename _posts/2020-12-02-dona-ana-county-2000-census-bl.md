@@ -1,7 +1,7 @@
 ---
-title: Dona Ana County 2000 Census Block Groups
-created: '2020-12-02T16:54:26.955002'
-modified: '2020-12-02T16:54:26.955009'
+title: Dona Ana County 2000 Census Blocks
+created: '2020-12-02T16:47:52.744736'
+modified: '2020-12-02T16:47:52.744743'
 state: active
 type: dataset
 tags:
@@ -32,9 +32,9 @@ tags:
   - Zip Code
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/c485735c-8867-43c3-8bf1-a71621d09f14/tgr13bg00shp.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/2e4b684c-aae4-493d-8178-584cfc50839d/tgr13blk00shp.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/c485735c-8867-43c3-8bf1-a71621d09f14/tgr13bg00shp.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/2e4b684c-aae4-493d-8178-584cfc50839d/tgr13blk00shp.derived.json
 layout: post
 
 ---
