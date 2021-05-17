@@ -1,7 +1,7 @@
 ---
-title: Rio Arriba County 2000 Census Block Groups
-created: '2020-12-02T16:53:54.112775'
-modified: '2020-12-02T16:53:54.112783'
+title: Rio Arriba  County 2000 Census Blocks
+created: '2020-12-02T17:36:43.743430'
+modified: '2020-12-02T17:36:43.743437'
 state: active
 type: dataset
 tags:
@@ -32,9 +32,9 @@ tags:
   - Zip Code
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/e7f7481a-ed4b-4055-a188-395f705fab1a/tgr39bg00shp.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/3869bf2d-486b-4c81-9e3e-acbb79d4076e/tgr39blk00shp.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/e7f7481a-ed4b-4055-a188-395f705fab1a/tgr39bg00shp.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/3869bf2d-486b-4c81-9e3e-acbb79d4076e/tgr39blk00shp.derived.json
 layout: post
 
 ---
