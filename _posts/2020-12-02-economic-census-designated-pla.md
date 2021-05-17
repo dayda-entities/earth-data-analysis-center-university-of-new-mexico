@@ -1,26 +1,26 @@
 ---
-title: 'Economic Census Designated Places for De Baca County, New Mexico, 2006se TIGER'
-created: '2020-12-02T17:01:34.507433'
-modified: '2020-12-02T17:01:34.507444'
+title: 'Economic Census Designated Places for Catron County, New Mexico, 2006se TIGER'
+created: '2020-12-02T16:52:23.650117'
+modified: '2020-12-02T16:52:23.650124'
 state: active
 type: dataset
 tags:
   - 2006 Tiger Second Edition
+  - Catron County
   - Census Data
   - County
-  - De Baca County
   - Economic Census Designated Place
   - New Mexico
   - Tiger Data
   - United States
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/561787be-d76f-460b-84ce-52eee5c195eb/tgr2006se_deba_placeec.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/831f9786-f9e7-4306-a1b3-829238420c33/tgr2006se_catr_placeec.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/561787be-d76f-460b-84ce-52eee5c195eb/tgr2006se_deba_placeec.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/831f9786-f9e7-4306-a1b3-829238420c33/tgr2006se_catr_placeec.derived.json
 layout: post
 
 ---
 The 2006 Second Edition TIGER/Line files are an extract of selected geographic and cartographic information from the Census TIGER database.  The geographic coverage for a single TIGER/Line file is a county or statistical equivalent entity, with the coverage area based on the latest available governmental unit boundaries. The Census TIGER database represents a seamless national file with no overlaps or gaps between parts.  However, each county-based TIGER/Line file is designed to stand alone as an independent data set or the files can be combined to cover the whole Nation.  The 2006 Second Edition  TIGER/Line files consist of line segments representing physical features and governmental and statistical boundaries.  
 
-This shapefile represents the Economic Census Designated Places for De Baca County stored in the 2006 TIGER Second Edition dataset.
+This shapefile represents the Economic Census Designated Places for Catron County stored in the 2006 TIGER Second Edition dataset.
