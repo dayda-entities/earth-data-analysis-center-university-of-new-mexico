@@ -1,7 +1,9 @@
 ---
-title: 'Cadastral PLSS Standardized Data - PLSSReferenceGrid, SE - Version 1.1'
-created: '2020-12-02T17:30:57.731728'
-modified: '2020-12-02T17:30:57.731735'
+title: >-
+  Cadastral PLSS Standardized Data - PLSSSecond Division (Tucumcari) - Version
+  1.1
+created: '2020-12-02T17:31:30.973463'
+modified: '2020-12-02T17:31:30.973470'
 state: active
 type: dataset
 tags:
@@ -9,6 +11,7 @@ tags:
   - Cadastral Reference
   - New Mexico
   - Plss
+  - Plss Divisions
   - Public Land Survey System
   - Section
   - Township
@@ -16,13 +19,20 @@ tags:
   - Usa
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/433e05a9-e555-443a-8f94-01795a1a9ae6/PLSSReferenceGrid_SE.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/42bf9a37-c450-468e-bdf7-7873b40486d8/PLSSSecond_Division_TUCUMCARI.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/433e05a9-e555-443a-8f94-01795a1a9ae6/PLSSReferenceGrid_SE.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/42bf9a37-c450-468e-bdf7-7873b40486d8/PLSSSecond_Division_TUCUMCARI.derived.json
 layout: post
 
 ---
-
-This feature class is part of the Cadastral National Spatial Data Infrastructure (NSDI) CADNSDI publication data set for rectangular and non-rectangular Public Land Survey System (PLSS) data set.  The metadata description in the Cadastral Reference System Feature Data Set more fully describes the entire data set.
-The PLSS Reference Grid is a generalized data set providing the Township and First Divisions of the PLSS as a separate feature class to support data requests, mapping and indexing. The spatial location and position and attributes of this feature class are the same as those in the primary data sets from which this data is built.  These data are often used for map sheet layouts and general location reference
-
+ This feature class is part of the Cadastral National Spatial Data
+                Infrastructure (NSDI) CADNSDI publication data set for rectangular and
+                non-rectangular Public Land Survey System (PLSS) data set. The metadata description
+                in the Cadastral Reference System Feature Data Set more fully describes the entire
+                data set. This feature class is the second division of the PLSS is quarter,
+                quarter-quarter, sixteenth or government lot divisions of the PLSS. The second and
+                third divisions are combined into this feature class as an intentional
+                de-normalization of the PLSS hierarchical data. The polygons in this feature class
+                represent the smallest division to the sixteenth that has been defined for the first
+                division. For example In some cases sections have only been divided to the quarter.
+                Divisions below the sixteenth are in the Special Survey or Parcel Feature Class. 
