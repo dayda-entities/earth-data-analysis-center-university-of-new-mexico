@@ -1,17 +1,18 @@
 ---
-title: >-
-  Cadastral PLSS Standardized Data - PLSSSecond Division (Carlsbad) - Version
-  1.1
-created: '2020-12-02T17:21:14.448726'
-modified: '2020-12-02T17:21:14.448733'
+title: Cadastral PLSS Standardized Data - PLSSIntersected (Silver City) - Version 1.1
+created: '2020-12-02T17:36:32.196096'
+modified: '2020-12-02T17:36:32.196105'
 state: active
 type: dataset
 tags:
   - Cadastral
   - Cadastral Reference
+  - Data Steward
+  - Meandered Water
   - New Mexico
   - Plss
   - Plss Divisions
+  - Plss Special Surveys
   - Public Land Survey System
   - Section
   - Township
@@ -19,9 +20,9 @@ tags:
   - Usa
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/e596d678-49a2-4319-ab2f-5ad238f4feef/PLSSSecond_Division_CARLSBAD.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/49b2f372-7676-4389-8555-673d3e2c8585/PLSSIntersected_SILVER_CITY.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/e596d678-49a2-4319-ab2f-5ad238f4feef/PLSSSecond_Division_CARLSBAD.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/49b2f372-7676-4389-8555-673d3e2c8585/PLSSIntersected_SILVER_CITY.derived.json
 layout: post
 
 ---
@@ -29,10 +30,7 @@ layout: post
                 Infrastructure (NSDI) CADNSDI publication data set for rectangular and
                 non-rectangular Public Land Survey System (PLSS) data set. The metadata description
                 in the Cadastral Reference System Feature Data Set more fully describes the entire
-                data set. This feature class is the second division of the PLSS is quarter,
-                quarter-quarter, sixteenth or government lot divisions of the PLSS. The second and
-                third divisions are combined into this feature class as an intentional
-                de-normalization of the PLSS hierarchical data. The polygons in this feature class
-                represent the smallest division to the sixteenth that has been defined for the first
-                division. For example In some cases sections have only been divided to the quarter.
-                Divisions below the sixteenth are in the Special Survey or Parcel Feature Class. 
+                data set. The fully intersected data is the atomic level of the PLSS that is similar
+                to the Esri coverage or the smallest pieces used to build the PLSS. Polygons may
+                overlap in this feature class. This feature class will also contain retired or
+                replaced areas of the PLSS. 
