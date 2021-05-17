@@ -1,22 +1,25 @@
 ---
-title: 'Cadastral PLSS Standardized Data - MetadataGlance, SW - Version 1.1'
-created: '2020-12-02T16:53:04.079081'
-modified: '2020-12-02T16:53:04.079089'
+title: 'Cadastral PLSS Standardized Data - PLSSQuarterReference, SE - Version 1.1'
+created: '2020-12-02T16:59:56.276515'
+modified: '2020-12-02T16:59:56.276522'
 state: active
 type: dataset
 tags:
   - Cadastral
-  - Data Steward
+  - Cadastral Reference
   - New Mexico
   - Plss
+  - Plss Divisions
   - Public Land Survey System
+  - Section
+  - Township
   - United States
   - Usa
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/3fb59591-7a77-4596-9129-192385ec29fd/MetadataGlance_SW.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/7a0023cd-a947-4c9c-9950-fdf2e680883e/PLSSQuarterReference_SE.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/3fb59591-7a77-4596-9129-192385ec29fd/MetadataGlance_SW.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/7a0023cd-a947-4c9c-9950-fdf2e680883e/PLSSQuarterReference_SE.derived.json
 layout: post
 
 ---
@@ -24,10 +27,6 @@ layout: post
                 Infrastructure (NSDI) CADNSDI publication data set for rectangular and
                 non-rectangular Public Land Survey System (PLSS) data set. The metadata description
                 in the Cadastral Reference System Feature Data Set more fully describes the entire
-                data set. This is a graphic representation of the data stewards for the Public Land
-                Survey System (PLSS). For BLM data sets the the data steward is identifed at the
-                township level or smaller area The Data Steward is agency that will be responsible
-                for updates of the PLSS. In the shared environment of the Natioanl Spatial Data
-                Infrastructure (NSDI) the data steward for an area is the primary coordinator or
-                agency responsible for making updates or causing updates to be made. Any questions
-                about data content should be directed to the data steward. 
+                data set. The PLSS Quarter Section Reference feature class is a companion feature
+                class for the PLSS Reference Grid that provides a quarter section division of the
+                sections for reference only. 
