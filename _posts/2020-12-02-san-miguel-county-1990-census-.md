@@ -1,7 +1,7 @@
 ---
-title: San Miguel County 1990 Census Blocks
-created: '2020-12-02T16:56:36.516663'
-modified: '2020-12-02T16:56:36.516670'
+title: San Miguel County 1990 Census Block Groups
+created: '2020-12-02T17:28:29.798119'
+modified: '2020-12-02T17:28:29.798129'
 state: active
 type: dataset
 tags:
@@ -11,13 +11,12 @@ tags:
   - San Miguel County
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/e8a410c9-c268-4aac-9245-e625ddb17ca8/tlf547shp.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/8d31df54-f9e1-4d24-ad57-4d73766ec98e/tlf447shp.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/e8a410c9-c268-4aac-9245-e625ddb17ca8/tlf547shp.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/8d31df54-f9e1-4d24-ad57-4d73766ec98e/tlf447shp.derived.json
 layout: post
 
 ---
-
-This data set is a vector polygon digital data structure taken from the Census Bureau's TIGER/Line Files, 1994, for New Mexico.
-The source software used was ARC/INFO 7.0.3.
-
+This data set is a vector polygon digital data structure taken from the Census
+				Bureau's TIGER/Line Files, 1994, for New Mexico. The source software used was
+				ARC/INFO 7.0.3
