@@ -1,7 +1,7 @@
 ---
 title: 'Clovis, NM 1250,000 Quad USGS Land Use/Land Cover, 2000'
-created: '2020-12-02T17:37:24.182762'
-modified: '2020-12-02T17:37:24.182770'
+created: '2020-12-02T17:36:00.880151'
+modified: '2020-12-02T17:36:00.880159'
 state: active
 type: dataset
 tags:
