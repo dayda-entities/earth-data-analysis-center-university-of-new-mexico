@@ -1,7 +1,7 @@
 ---
 title: 'Raton, NM 1250,000 Quad East Half USGS Land Use/Land Cover, 2000'
-created: '2020-12-02T16:59:17.756702'
-modified: '2020-12-02T16:59:17.756709'
+created: '2020-12-02T16:47:22.143162'
+modified: '2020-12-02T16:47:22.143169'
 state: active
 type: dataset
 tags:
