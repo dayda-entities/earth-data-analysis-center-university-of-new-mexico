@@ -1,7 +1,7 @@
 ---
-title: Curry County 2000 Census Blocks
-created: '2020-12-02T17:30:27.427933'
-modified: '2020-12-02T17:30:27.427942'
+title: Curry County 2000 Census Block Groups
+created: '2020-12-02T16:50:24.428357'
+modified: '2020-12-02T16:50:24.428364'
 state: active
 type: dataset
 tags:
@@ -32,9 +32,9 @@ tags:
   - Zip Code
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/86928fd1-d27e-4ee9-b227-5aa28179c33e/tgr9blk00shp.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/d23447d0-60b6-4be5-89b3-4a30e31a57a0/tgr9bg00shp.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/86928fd1-d27e-4ee9-b227-5aa28179c33e/tgr9blk00shp.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/d23447d0-60b6-4be5-89b3-4a30e31a57a0/tgr9bg00shp.derived.json
 layout: post
 
 ---
