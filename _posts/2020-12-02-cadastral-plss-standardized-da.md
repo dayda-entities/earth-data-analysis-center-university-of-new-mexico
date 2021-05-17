@@ -1,26 +1,36 @@
 ---
-title: 'Cadastral PLSS Standardized Data - MetadataGlance, NE - Version 1.1'
-created: '2020-12-02T17:20:30.918126'
-modified: '2020-12-02T17:20:30.918135'
+title: Cadastral PLSS Standardized Data - PLSSIntersected (Ft Sumner) - Version 1.1
+created: '2020-12-02T16:44:31.935229'
+modified: '2020-12-02T16:44:31.935236'
 state: active
 type: dataset
 tags:
   - Cadastral
+  - Cadastral Reference
   - Data Steward
+  - Meandered Water
   - New Mexico
   - Plss
+  - Plss Divisions
+  - Plss Special Surveys
   - Public Land Survey System
+  - Section
+  - Township
   - United States
   - Usa
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/d5fe8783-dcea-4f3e-a1f4-ed8735b516cf/MetadataGlance_NE.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/ed3a1fc1-de61-4887-9126-7f5f1534f26d/PLSSIntersected_FT_SUMNER.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/d5fe8783-dcea-4f3e-a1f4-ed8735b516cf/MetadataGlance_NE.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/ed3a1fc1-de61-4887-9126-7f5f1534f26d/PLSSIntersected_FT_SUMNER.derived.json
 layout: post
 
 ---
-
-This feature class is part of the Cadastral National Spatial Data Infrastructure (NSDI) CADNSDI publication data set for rectangular and non-rectangular Public Land Survey System (PLSS) data set.  The metadata description in the Cadastral Reference System Feature Data Set more fully describes the entire data set.
-This is a graphic representation of the data stewards for the Public Land Survey System (PLSS). For BLM data sets the the data steward is identifed at the township level or smaller area  The Data Steward is agency that will be responsible for updates of the PLSS. In the shared environment of the Natioanl Spatial Data Infrastructure (NSDI) the data steward for an area is the primary coordinator or agency responsible for making updates or causing updates to be made. Any questions about data content should be directed to the data steward.
-
+ This feature class is part of the Cadastral National Spatial Data
+                Infrastructure (NSDI) CADNSDI publication data set for rectangular and
+                non-rectangular Public Land Survey System (PLSS) data set. The metadata description
+                in the Cadastral Reference System Feature Data Set more fully describes the entire
+                data set. The fully intersected data is the atomic level of the PLSS that is similar
+                to the Esri coverage or the smallest pieces used to build the PLSS. Polygons may
+                overlap in this feature class. This feature class will also contain retired or
+                replaced areas of the PLSS. 
