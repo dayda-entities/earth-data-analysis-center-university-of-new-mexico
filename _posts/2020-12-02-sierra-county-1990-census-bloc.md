@@ -1,19 +1,19 @@
 ---
-title: Sierra County 1990 Census Blocks
-created: '2020-12-02T16:52:42.235118'
-modified: '2020-12-02T16:52:42.235125'
+title: Sierra County 1990 Census Block Groups
+created: '2020-12-02T16:59:32.978457'
+modified: '2020-12-02T16:59:32.978465'
 state: active
 type: dataset
 tags:
+  - Lincoln County
   - New Mexico
   - New Mexico Tiger/line Files
   - Nm
-  - Sierra County
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/642d62d3-8cfd-4883-a600-74b1c8aaa6f3/tlf551shp.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/eee1eaac-61eb-4e5e-822f-53e910ad64e4/tlf451shp.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/642d62d3-8cfd-4883-a600-74b1c8aaa6f3/tlf551shp.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/eee1eaac-61eb-4e5e-822f-53e910ad64e4/tlf451shp.derived.json
 layout: post
 
 ---
