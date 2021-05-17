@@ -1,7 +1,7 @@
 ---
-title: San Juan County 2000 Census Block Groups
-created: '2020-12-02T17:28:52.293044'
-modified: '2020-12-02T17:28:52.293052'
+title: San Juan  County 2000 Census Blocks
+created: '2020-12-02T16:58:39.960172'
+modified: '2020-12-02T16:58:39.960179'
 state: active
 type: dataset
 tags:
@@ -20,21 +20,21 @@ tags:
   - Point/node
   - Political Boundary
   - Polygon
-  - San Juan County
+  - San Juan
+  - San Miguel County
   - Statistical Boundary
   - Street Centerline
   - Street Segment
   - Tiger/line
   - Tiger/line Identification Number (tlid)
   - Topology
-  - United States
   - Vector
   - Zip Code
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/bb2fb0fc-ad6f-4bdc-a68c-d06102795e2f/tgr45bg00shp.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/d86347e4-5568-4c85-a283-5d3276221858/tgr45blk00shp.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/bb2fb0fc-ad6f-4bdc-a68c-d06102795e2f/tgr45bg00shp.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/d86347e4-5568-4c85-a283-5d3276221858/tgr45blk00shp.derived.json
 layout: post
 
 ---
