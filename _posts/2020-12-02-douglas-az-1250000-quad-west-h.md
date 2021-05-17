@@ -1,7 +1,7 @@
 ---
 title: 'Douglas, AZ 1250,000 Quad West Half USGS Land Use/Land Cover, 2000'
-created: '2020-12-02T17:01:31.228824'
-modified: '2020-12-02T17:01:31.228832'
+created: '2020-12-02T16:55:12.613933'
+modified: '2020-12-02T16:55:12.613942'
 state: active
 type: dataset
 tags:
