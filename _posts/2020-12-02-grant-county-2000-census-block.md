@@ -1,7 +1,7 @@
 ---
-title: Grant County 2000 Census Block Groups
-created: '2020-12-02T17:01:08.660730'
-modified: '2020-12-02T17:01:08.660737'
+title: Grant  County 2000 Census Blocks
+created: '2020-12-02T17:23:30.606074'
+modified: '2020-12-02T17:23:30.606082'
 state: active
 type: dataset
 tags:
@@ -32,9 +32,9 @@ tags:
   - Zip Code
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/8dfe8baf-e339-4512-b447-61a822542cc6/tgr17bg00shp.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/7cfe5e2e-1072-4677-8a74-cbbf6489635b/tgr17blk00shp.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/8dfe8baf-e339-4512-b447-61a822542cc6/tgr17bg00shp.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/7cfe5e2e-1072-4677-8a74-cbbf6489635b/tgr17blk00shp.derived.json
 layout: post
 
 ---
