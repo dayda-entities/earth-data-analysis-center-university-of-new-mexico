@@ -1,9 +1,9 @@
 ---
 title: >-
-  Cadastral PLSS Standardized Data - PLSSSecond Division (Brownfield) - Version
+  Cadastral PLSS Standardized Data - PLSSSecond Division (Las Cruces) - Version
   1.1
-created: '2020-12-02T17:38:14.824255'
-modified: '2020-12-02T17:38:14.824262'
+created: '2020-12-02T17:38:16.208228'
+modified: '2020-12-02T17:38:16.208239'
 state: active
 type: dataset
 tags:
@@ -19,9 +19,9 @@ tags:
   - Usa
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/dda27fc6-f8eb-4b47-8ed9-864f081922ed/PLSSSecond_Division_BROWNFIELD.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/5d65930f-f4f5-46d6-9c63-c2f837300c32/PLSSSecond_Division_LAS_CRUCES.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/dda27fc6-f8eb-4b47-8ed9-864f081922ed/PLSSSecond_Division_BROWNFIELD.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/5d65930f-f4f5-46d6-9c63-c2f837300c32/PLSSSecond_Division_LAS_CRUCES.derived.json
 layout: post
 
 ---
