@@ -1,25 +1,27 @@
 ---
-title: Rio Arriba County 2010 Census Blocks
-created: '2020-12-02T16:55:24.283677'
-modified: '2020-12-02T16:55:24.283684'
+title: Rio Arriba County 2010 Census Roads
+created: '2020-12-02T17:27:45.362073'
+modified: '2020-12-02T17:27:45.362080'
 state: active
 type: dataset
 tags:
   - '35039'
-  - Block
-  - Census Block
+  - Address Range
   - County Or Equivalent Entity
-  - Polygon
+  - Linear Feature
   - Rio Arriba
+  - Road Feature
+  - Roads
+  - Street Centerline
   - U.s.
   - United States
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/ba38b990-aa2a-4c1e-b77e-34dba8267dad/tl_2010_35039_tabblock10.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/d40454dd-d760-4090-8ec5-b64443b2e1a5/tl_2010_35039_roads.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/ba38b990-aa2a-4c1e-b77e-34dba8267dad/tl_2010_35039_tabblock10.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/d40454dd-d760-4090-8ec5-b64443b2e1a5/tl_2010_35039_roads.derived.json
 layout: post
 
 ---
-The TIGER/Line Files are shapefiles and related database files (.dbf) that are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB).  The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line File is designed to stand alone as an independent data set, or they can be combined to cover the entire nation.  Census Blocks are statistical areas bounded on all sides by visible features, such as streets, roads, streams, and railroad tracks, and/or by nonvisible boundaries such as city, town, township, and county limits, and short line-of-sight extensions of streets and roads.  Census blocks are relatively small in area; for example, a block in a city bounded by streets.  However, census blocks in remote areas are often large and irregular and may even be many square miles in area.  A common misunderstanding is that data users think census blocks are used geographically to build all other census geographic areas, rather all other census geographic areas are updated and then used as the primary constraints, along with roads and water features, to delineate the tabulation blocks.  As a result, all 2010 Census blocks nest within every other 2010 Census geographic area, so that Census Bureau statistical data can be tabulated at the block level and aggregated up to the appropriate geographic areas.  Census blocks cover all territory in the United States, Puerto Rico, and the Island Areas (American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, and the U.S. Virgin Islands).  Blocks are the smallest geographic areas for which the Census Bureau publishes data from the decennial census.  A block may consist of one or more faces.  
+The TIGER/Line Files are shapefiles and related database files (.dbf) that are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB).  The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line File is designed to stand alone as an independent data set, or they can be combined to cover the entire nation.  The All Roads Shapefile includes all features within the MTDB Super Class "Road/Path Features" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB tha begin with "S".  This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.  
 
