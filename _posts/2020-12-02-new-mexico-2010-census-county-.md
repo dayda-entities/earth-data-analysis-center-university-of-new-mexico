@@ -1,7 +1,7 @@
 ---
 title: 'New Mexico, 2010 Census County Subdivision State-based'
-created: '2020-12-02T17:38:22.261303'
-modified: '2020-12-02T17:38:22.261309'
+created: '2020-12-02T17:30:43.842692'
+modified: '2020-12-02T17:30:43.842698'
 state: active
 type: dataset
 tags:
@@ -25,9 +25,9 @@ tags:
   - Ut
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/41b157be-ae1f-4011-97d1-d975618fe7fd/tl_2010_35_cousub10.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/b829dd6c-5fb9-4548-8435-b99cc822a79d/tl_2010_35_cousub10.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/41b157be-ae1f-4011-97d1-d975618fe7fd/tl_2010_35_cousub10.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/b829dd6c-5fb9-4548-8435-b99cc822a79d/tl_2010_35_cousub10.derived.json
 layout: post
 
 ---
