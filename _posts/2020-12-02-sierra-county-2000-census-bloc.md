@@ -1,7 +1,7 @@
 ---
-title: Sierra  County 2000 Census Blocks
-created: '2020-12-02T16:56:43.212957'
-modified: '2020-12-02T16:56:43.212967'
+title: Sierra County 2000 Census Block Groups
+created: '2020-12-02T17:29:35.606942'
+modified: '2020-12-02T17:29:35.606955'
 state: active
 type: dataset
 tags:
@@ -32,9 +32,9 @@ tags:
   - Zip Code
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/6b5d74c4-2b6a-4966-bf90-95f14bbe43b3/tgr51blk00shp.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/73f50960-e608-4d54-916a-b59ba4e367db/tgr51bg00shp.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/6b5d74c4-2b6a-4966-bf90-95f14bbe43b3/tgr51blk00shp.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/73f50960-e608-4d54-916a-b59ba4e367db/tgr51bg00shp.derived.json
 layout: post
 
 ---
