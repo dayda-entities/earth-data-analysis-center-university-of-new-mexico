@@ -1,7 +1,7 @@
 ---
-title: Socorro County 1990 Census Block Groups
-created: '2020-12-02T17:35:09.384078'
-modified: '2020-12-02T17:35:09.384085'
+title: Socorro County 1990 Census Blocks
+created: '2020-12-02T16:59:48.088739'
+modified: '2020-12-02T16:59:48.088746'
 state: active
 type: dataset
 tags:
@@ -11,12 +11,13 @@ tags:
   - Socorro County
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/1a2d9763-fffc-4b1d-a85e-606059f4f1b5/tlf453shp.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/0cd98b9f-e03d-4aed-944b-adefa526103c/tlf553shp.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/1a2d9763-fffc-4b1d-a85e-606059f4f1b5/tlf453shp.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/0cd98b9f-e03d-4aed-944b-adefa526103c/tlf553shp.derived.json
 layout: post
 
 ---
-This data set is a vector polygon digital data structure taken from the Census
-				Bureau's TIGER/Line Files, 1994, for New Mexico. The source software used was
-				ARC/INFO 7.0.3
+
+This data set is a vector polygon digital data structure taken from the Census Bureau's TIGER/Line Files, 1994, for New Mexico.
+The source software used was ARC/INFO 7.0.3.
+
