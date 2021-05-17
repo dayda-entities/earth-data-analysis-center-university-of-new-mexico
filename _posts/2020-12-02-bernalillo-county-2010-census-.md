@@ -1,7 +1,7 @@
 ---
-title: Bernalillo County 2010 Census Edges
-created: '2020-12-02T17:33:19.879873'
-modified: '2020-12-02T17:33:19.879880'
+title: Bernalillo County 2010 Census Roads
+created: '2020-12-02T16:59:54.862190'
+modified: '2020-12-02T16:59:54.862197'
 state: active
 type: dataset
 tags:
@@ -9,9 +9,7 @@ tags:
   - Address Range
   - Bernalillo
   - County Or Equivalent Entity
-  - Feature
-  - Hydrography
-  - Linear
+  - Linear Feature
   - Road Feature
   - Roads
   - Street Centerline
@@ -19,11 +17,11 @@ tags:
   - United States
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/8f31bf70-193a-4746-8edc-5f863fb49d16/tl_2010_35001_edges.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/a13a8295-92b9-4b6b-9127-3e0262274b78/tl_2010_35001_roads.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/8f31bf70-193a-4746-8edc-5f863fb49d16/tl_2010_35001_edges.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/a13a8295-92b9-4b6b-9127-3e0262274b78/tl_2010_35001_roads.derived.json
 layout: post
 
 ---
-The TIGER/Line Files are shapefiles and related database files (.dbf) that are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB).  The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line File is designed to stand alone as an independent data set, or they can be combined to cover the entire nation.  Edge refers to the linear topological primitives that make up MTDB.  The All Lines Shapefile contains linear features such as roads, railroads, and hydrography.  Additional attribute data associated with the linear features found in the All Lines Shapefile are available in relationship (.dbf) files that users must download separately.  The All Lines Shapefile contains the geometry and attributes of each topological primitive edge.  Each edge has a unique TIGER/Line identifier (TLID) value.  
+The TIGER/Line Files are shapefiles and related database files (.dbf) that are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB).  The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line File is designed to stand alone as an independent data set, or they can be combined to cover the entire nation.  The All Roads Shapefile includes all features within the MTDB Super Class "Road/Path Features" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB tha begin with "S".  This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.  
 
