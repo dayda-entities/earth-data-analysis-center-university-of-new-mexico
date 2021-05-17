@@ -1,7 +1,7 @@
 ---
-title: Otero County 1990 Census Block Groups
-created: '2020-12-02T16:57:45.357747'
-modified: '2020-12-02T16:57:45.357759'
+title: Otero County 1990 Census Blocks
+created: '2020-12-02T17:23:05.369824'
+modified: '2020-12-02T17:23:05.369831'
 state: active
 type: dataset
 tags:
@@ -11,12 +11,12 @@ tags:
   - Otero County
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/c6451037-6863-42ba-8a43-b38c67f9b36f/tlf435shp.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/3af5b712-830c-4bdf-80df-5154c0e12fa0/tlf535shp.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/c6451037-6863-42ba-8a43-b38c67f9b36f/tlf435shp.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/3af5b712-830c-4bdf-80df-5154c0e12fa0/tlf535shp.derived.json
 layout: post
 
 ---
-This data set is a vector polygon digital data structure taken from the Census
-				Bureau's TIGER/Line Files, 1994, for New Mexico. The source software used was
-				ARC/INFO 7.0.3
+ This data set is a vector polygon digital data structure taken from the
+				Census Bureau's TIGER/Line Files, 1994, for New Mexico. The source software used was
+				ARC/INFO 7.0.3. 
