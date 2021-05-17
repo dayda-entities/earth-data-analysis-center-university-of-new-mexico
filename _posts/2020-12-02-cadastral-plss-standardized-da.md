@@ -1,7 +1,9 @@
 ---
-title: Cadastral PLSS Standardized Data - PLSSSecond Division (Clifton) - Version 1.1
-created: '2020-12-02T17:00:18.043675'
-modified: '2020-12-02T17:00:18.043682'
+title: >-
+  Cadastral PLSS Standardized Data - PLSSSecond Division (Santa Fe) - Version
+  1.1
+created: '2020-12-02T16:51:56.056953'
+modified: '2020-12-02T16:51:56.056960'
 state: active
 type: dataset
 tags:
@@ -17,9 +19,9 @@ tags:
   - Usa
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/1aa9f94a-ef84-49fb-bbac-f7b51e2ac885/PLSSSecond_Division_CLIFTON.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/9b82aeb4-dbf5-4dfd-92d5-2fbe32e41d5f/PLSSSecond_Division_SANTA_FE.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/1aa9f94a-ef84-49fb-bbac-f7b51e2ac885/PLSSSecond_Division_CLIFTON.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/9b82aeb4-dbf5-4dfd-92d5-2fbe32e41d5f/PLSSSecond_Division_SANTA_FE.derived.json
 layout: post
 
 ---
