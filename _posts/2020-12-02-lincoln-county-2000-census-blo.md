@@ -1,7 +1,7 @@
 ---
-title: Lincoln County 2000 Census Block Groups
-created: '2020-12-02T17:28:39.789954'
-modified: '2020-12-02T17:28:39.789960'
+title: Lincoln  County 2000 Census Blocks
+created: '2020-12-02T17:02:09.997540'
+modified: '2020-12-02T17:02:09.997547'
 state: active
 type: dataset
 tags:
@@ -32,9 +32,9 @@ tags:
   - Zip Code
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/3ea149bc-01de-4c4e-806b-8b9eaf768c0a/tgr27bg00shp.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/c5329bac-76b8-48e7-9c2d-69c6fa2c8dec/tgr27blk00shp.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/3ea149bc-01de-4c4e-806b-8b9eaf768c0a/tgr27bg00shp.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/c5329bac-76b8-48e7-9c2d-69c6fa2c8dec/tgr27blk00shp.derived.json
 layout: post
 
 ---
