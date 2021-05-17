@@ -1,7 +1,7 @@
 ---
-title: DISABILITY Civilian Noninstitutional Persons by Age COS 2000
-created: '2020-12-02T16:51:25.856006'
-modified: '2020-12-02T16:51:25.856019'
+title: DISABILITY Civilian Noninstitutional Males by Age COS 2000
+created: '2020-12-02T17:20:26.762012'
+modified: '2020-12-02T17:20:26.762023'
 state: active
 type: dataset
 tags:
@@ -32,9 +32,9 @@ tags:
   - Zip Code
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/cdd90301-06cc-4274-a433-174f66a9baea/k00284data58566858_cnty_view.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/40ab1da8-f653-477d-b94f-96d86c2d1a47/k00282data986668424_cnty_view.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/cdd90301-06cc-4274-a433-174f66a9baea/k00284data58566858_cnty_view.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/40ab1da8-f653-477d-b94f-96d86c2d1a47/k00282data986668424_cnty_view.derived.json
 layout: post
 
 ---
