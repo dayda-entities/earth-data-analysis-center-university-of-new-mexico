@@ -1,7 +1,7 @@
 ---
 title: 'Tucumcari, NM 1250,000 Quad USGS Land Use/Land Cover, 2000'
-created: '2020-12-02T16:58:32.372899'
-modified: '2020-12-02T16:58:32.372906'
+created: '2020-12-02T16:53:44.919991'
+modified: '2020-12-02T16:53:44.919999'
 state: active
 type: dataset
 tags:
