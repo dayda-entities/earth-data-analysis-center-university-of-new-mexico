@@ -1,7 +1,7 @@
 ---
 title: 'Clifton, AZ 1250,000 Quad East Half USGS Land Use/Land Cover, 2000'
-created: '2020-12-02T17:37:37.186148'
-modified: '2020-12-02T17:37:37.186156'
+created: '2020-12-02T17:26:07.818634'
+modified: '2020-12-02T17:26:07.818643'
 state: active
 type: dataset
 tags:
@@ -201,12 +201,4 @@ json_url: >-
 layout: post
 
 ---
-This land cover data set was produced as part of a cooperative project between
-				the U.S. Geological Survey (USGS) and the U.S. Environmental Protection Agency
-				(USEPA) to produce a consistent, land cover data layer for the conterminous U.S.
-				based on 30-meter Landsat thematic mapper (TM) data. National Land Cover Data (NLCD)
-				was developed from TM data acquired by the Multi-resoultion Land Characterization
-				(MRLC) Consortium. The MRLC Consortium is a partnership of federal agencies that
-				produce or use land cover data. Partners include the USGS (National Mapping,
-				Biological Resources, and Water Resources Divisions), USEPA, the U.S. Forest
-				Service, and the National Oceanic and Atmospheric Administration.
+This land cover data set was produced as part of a cooperative project between the U.S. Geological Survey (USGS) and the U.S. Environmental Protection Agency (USEPA) to produce a consistent, land cover data layer for the conterminous U.S. based on 30-meter Landsat thematic mapper (TM) data. National Land Cover Data (NLCD) was developed from TM data acquired by the Multi-resoultion Land Characterization (MRLC) Consortium. The MRLC Consortium is a partnership of federal agencies that produce or use land cover data. Partners include the USGS (National Mapping, Biological Resources, and Water Resources Divisions), USEPA, the U.S. Forest Service, and the National Oceanic and Atmospheric Administration.
