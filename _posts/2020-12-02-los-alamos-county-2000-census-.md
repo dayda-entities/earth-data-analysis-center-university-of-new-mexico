@@ -1,7 +1,7 @@
 ---
-title: Los Alamos  County 2000 Census Blocks
-created: '2020-12-02T16:45:05.775685'
-modified: '2020-12-02T16:45:05.775696'
+title: Los Alamos County 2000 Census Block Groups
+created: '2020-12-02T16:51:52.530565'
+modified: '2020-12-02T16:51:52.530577'
 state: active
 type: dataset
 tags:
@@ -32,9 +32,9 @@ tags:
   - Zip Code
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/d74ad17d-6676-4f5d-bb53-7e7daee8d445/tgr28blk00shp.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/5a728a9e-02db-4e18-9aac-b402f25348b2/tgr28bg00shp.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/d74ad17d-6676-4f5d-bb53-7e7daee8d445/tgr28blk00shp.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/5a728a9e-02db-4e18-9aac-b402f25348b2/tgr28bg00shp.derived.json
 layout: post
 
 ---
