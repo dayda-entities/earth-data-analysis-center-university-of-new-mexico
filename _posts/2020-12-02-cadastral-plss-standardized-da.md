@@ -1,28 +1,23 @@
 ---
-title: Cadastral PLSS Standardized Data - PLSSIntersected (Raton) - Version 1.1
-created: '2020-12-02T16:45:21.769961'
-modified: '2020-12-02T16:45:21.769968'
+title: 'Cadastral PLSS Standardized Data - PLSSSpecialSurvey, SE - Version 1.1'
+created: '2020-12-02T17:28:43.189637'
+modified: '2020-12-02T17:28:43.189644'
 state: active
 type: dataset
 tags:
   - Cadastral
   - Cadastral Reference
-  - Data Steward
-  - Meandered Water
   - New Mexico
   - Plss
-  - Plss Divisions
   - Plss Special Surveys
   - Public Land Survey System
-  - Section
-  - Township
   - United States
   - Usa
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/cbdd8b66-7c76-4fa5-81de-60967aec1347/PLSSIntersected_RATON.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/e0323c34-648d-42ef-b62f-37e36b099601/PLSSSpecialSurvey_SE.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/cbdd8b66-7c76-4fa5-81de-60967aec1347/PLSSIntersected_RATON.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/e0323c34-648d-42ef-b62f-37e36b099601/PLSSSpecialSurvey_SE.derived.json
 layout: post
 
 ---
@@ -30,7 +25,7 @@ layout: post
                 Infrastructure (NSDI) CADNSDI publication data set for rectangular and
                 non-rectangular Public Land Survey System (PLSS) data set. The metadata description
                 in the Cadastral Reference System Feature Data Set more fully describes the entire
-                data set. The fully intersected data is the atomic level of the PLSS that is similar
-                to the Esri coverage or the smallest pieces used to build the PLSS. Polygons may
-                overlap in this feature class. This feature class will also contain retired or
-                replaced areas of the PLSS. 
+                data set. This feature class contains the Special Surveys which are non-rectangular
+                components of the PLSS from BLM survey records. These special survey areas are
+                generated from combinations of special survey codes, designators, notes and suffix
+                information in the PLSS Intersected feature class. 
