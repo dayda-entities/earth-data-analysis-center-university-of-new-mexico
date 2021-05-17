@@ -1,7 +1,7 @@
 ---
-title: San Miguel  County 2000 Census Blocks
-created: '2020-12-02T17:38:42.895515'
-modified: '2020-12-02T17:38:42.895524'
+title: San Miguel County 2000 Census Block Groups
+created: '2020-12-02T17:34:53.780798'
+modified: '2020-12-02T17:34:53.780809'
 state: active
 type: dataset
 tags:
@@ -20,21 +20,21 @@ tags:
   - Point/node
   - Political Boundary
   - Polygon
-  - San Miguel
-  - Sandoval County
+  - San Miguel County
   - Statistical Boundary
   - Street Centerline
   - Street Segment
   - Tiger/line
   - Tiger/line Identification Number (tlid)
   - Topology
+  - United States
   - Vector
   - Zip Code
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/2a349f3d-3853-4da7-8d12-4006e4cd9bc0/tgr47blk00shp.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/e9a6b907-6974-444a-8032-de9c95c6b2ba/tgr47bg00shp.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/2a349f3d-3853-4da7-8d12-4006e4cd9bc0/tgr47blk00shp.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/e9a6b907-6974-444a-8032-de9c95c6b2ba/tgr47bg00shp.derived.json
 layout: post
 
 ---
