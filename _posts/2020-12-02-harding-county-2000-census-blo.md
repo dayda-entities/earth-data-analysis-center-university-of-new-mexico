@@ -1,7 +1,7 @@
 ---
-title: Harding  County 2000 Census Block Groups
-created: '2020-12-02T17:33:41.427655'
-modified: '2020-12-02T17:33:41.427662'
+title: Harding  County 2000 Census Blocks
+created: '2020-12-02T17:23:24.576971'
+modified: '2020-12-02T17:23:24.576978'
 state: active
 type: dataset
 tags:
@@ -32,9 +32,9 @@ tags:
   - Zip Code
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/dfd4f35d-1efd-4134-89e2-1f5208d78f14/tgr21bg00shp.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/513b6bf7-95fb-4772-a4fc-df86cc7018d0/tgr21blk00shp.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/dfd4f35d-1efd-4134-89e2-1f5208d78f14/tgr21bg00shp.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/513b6bf7-95fb-4772-a4fc-df86cc7018d0/tgr21blk00shp.derived.json
 layout: post
 
 ---
