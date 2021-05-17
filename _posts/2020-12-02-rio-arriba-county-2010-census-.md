@@ -1,34 +1,25 @@
 ---
-title: Rio Arriba County 2010 Census County Subdivision County-based
-created: '2020-12-02T17:35:59.948821'
-modified: '2020-12-02T17:35:59.948828'
+title: Rio Arriba County 2010 Census Blocks
+created: '2020-12-02T16:55:24.283677'
+modified: '2020-12-02T16:55:24.283684'
 state: active
 type: dataset
 tags:
   - '35039'
-  - Barrio
-  - Ccd
-  - Census County Division
+  - Block
+  - Census Block
   - County Or Equivalent Entity
-  - County Subdivision
-  - Mcd
-  - Minor Civil Division
   - Polygon
   - Rio Arriba
-  - Subdivision
-  - Town
-  - Township
   - U.s.
   - United States
-  - Unorganized Territory
-  - Ut
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/e8b1a173-105b-4414-a29f-381e92198f99/tl_2010_35039_cousub10.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/ba38b990-aa2a-4c1e-b77e-34dba8267dad/tl_2010_35039_tabblock10.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/e8b1a173-105b-4414-a29f-381e92198f99/tl_2010_35039_cousub10.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/ba38b990-aa2a-4c1e-b77e-34dba8267dad/tl_2010_35039_tabblock10.derived.json
 layout: post
 
 ---
-The TIGER/Line Files are shapefiles and related database files (.dbf) that are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB).  The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line File is designed to stand alone as an independent data set, or they can be combined to cover the entire nation.  County subdivisions are the primary divisions of counties and their equivalent entities for the reporting of Census Bureau data, and they include legally minor civil divisions (MCDs) and statistical census county divisions (CCDs), and unorganized territories.  For the 2010 Census, the legal MCDs are the primary governmental and/or administrative divisions of counties in 29 States and Puerto Rico; Tennessee changed from having CCDs for Census 2000 to having MCDs for the 2010 Census.  In MCD States where no MCD exists or is not defined, the Census Bureau creates statistical unorganized territories to complete coverage.  The entire area of the United States, Puerto Rico, and the Island Areas is covered by county subdivisions.  The boundaries of all 2010 Census legal MCDs are as of January 1, 2010 as reported through the Census Bureau's Boundary and Annexation Survey (BAS).  For the 2010 Census, CCDs or their equivalents are delineated in 21 States.  The boundaries of all 2010 Census statistical CCDs were delineated as part of the Census Bureau's Participant Statistical Areas Program (PSAP).  
+The TIGER/Line Files are shapefiles and related database files (.dbf) that are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB).  The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line File is designed to stand alone as an independent data set, or they can be combined to cover the entire nation.  Census Blocks are statistical areas bounded on all sides by visible features, such as streets, roads, streams, and railroad tracks, and/or by nonvisible boundaries such as city, town, township, and county limits, and short line-of-sight extensions of streets and roads.  Census blocks are relatively small in area; for example, a block in a city bounded by streets.  However, census blocks in remote areas are often large and irregular and may even be many square miles in area.  A common misunderstanding is that data users think census blocks are used geographically to build all other census geographic areas, rather all other census geographic areas are updated and then used as the primary constraints, along with roads and water features, to delineate the tabulation blocks.  As a result, all 2010 Census blocks nest within every other 2010 Census geographic area, so that Census Bureau statistical data can be tabulated at the block level and aggregated up to the appropriate geographic areas.  Census blocks cover all territory in the United States, Puerto Rico, and the Island Areas (American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, and the U.S. Virgin Islands).  Blocks are the smallest geographic areas for which the Census Bureau publishes data from the decennial census.  A block may consist of one or more faces.  
 
