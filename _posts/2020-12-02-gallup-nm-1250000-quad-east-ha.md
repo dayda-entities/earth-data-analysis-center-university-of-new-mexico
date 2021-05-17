@@ -1,7 +1,7 @@
 ---
 title: 'Gallup, NM 1250,000 Quad East Half USGS Land Use/Land Cover, 2000'
-created: '2020-12-02T17:29:56.536537'
-modified: '2020-12-02T17:29:56.536545'
+created: '2020-12-02T16:54:14.866518'
+modified: '2020-12-02T16:54:14.866531'
 state: active
 type: dataset
 tags:
