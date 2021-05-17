@@ -1,7 +1,7 @@
 ---
-title: Colfax County 2000 Census Block Groups
-created: '2020-12-02T17:25:59.185459'
-modified: '2020-12-02T17:25:59.185470'
+title: Colfax County 2000 Census Blocks
+created: '2020-12-02T16:44:39.514878'
+modified: '2020-12-02T16:44:39.514884'
 state: active
 type: dataset
 tags:
@@ -32,9 +32,9 @@ tags:
   - Zip Code
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/e10bfbec-a20d-4572-9c3d-44b03bc7f8f2/tgr7bg00shp.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/3ba88659-0149-45e5-90de-4db143f52f08/tgr7blk00shp.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/e10bfbec-a20d-4572-9c3d-44b03bc7f8f2/tgr7bg00shp.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/3ba88659-0149-45e5-90de-4db143f52f08/tgr7blk00shp.derived.json
 layout: post
 
 ---
