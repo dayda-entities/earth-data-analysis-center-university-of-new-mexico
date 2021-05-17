@@ -1,7 +1,7 @@
 ---
-title: Grant County 1990 Census Block Groups
-created: '2020-12-02T16:57:16.654899'
-modified: '2020-12-02T16:57:16.654909'
+title: Grant County 1990 Census Blocks
+created: '2020-12-02T16:56:14.378029'
+modified: '2020-12-02T16:56:14.378035'
 state: active
 type: dataset
 tags:
@@ -11,12 +11,12 @@ tags:
   - Nm
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/126b4db3-660c-4e12-925a-efd19352ecc1/tlf417shp.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/0db0cf59-c646-4d34-b644-207a4ab083ba/tlf517shp.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/126b4db3-660c-4e12-925a-efd19352ecc1/tlf417shp.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/0db0cf59-c646-4d34-b644-207a4ab083ba/tlf517shp.derived.json
 layout: post
 
 ---
-This data set is a vector polygon digital data structure taken from the Census
-				Bureau's TIGER/Line Files, 1994, for New Mexico. The source software used was
-				ARC/INFO 7.0.3
+ This data set is a vector polygon digital data structure taken from the
+				Census Bureau's TIGER/Line Files, 1994, for New Mexico. The source software used was
+				ARC/INFO 7.0.3. 
