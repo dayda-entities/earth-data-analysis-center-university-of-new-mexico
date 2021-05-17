@@ -1,7 +1,7 @@
 ---
-title: Cadastral PLSS Standardized Data - PLSSSecond Division (El Paso) - Version 1.1
-created: '2020-12-02T17:27:00.141328'
-modified: '2020-12-02T17:27:00.141335'
+title: 'Cadastral PLSS Standardized Data - PLSSTownship, NE - Version 1.1'
+created: '2020-12-02T17:27:57.467549'
+modified: '2020-12-02T17:27:57.467556'
 state: active
 type: dataset
 tags:
@@ -9,17 +9,15 @@ tags:
   - Cadastral Reference
   - New Mexico
   - Plss
-  - Plss Divisions
   - Public Land Survey System
-  - Section
   - Township
   - United States
   - Usa
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/c73c0b86-998a-4af7-afe0-ac0ccf61ea60/PLSSSecond_Division_EL_PASO.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/f5b71837-9c4c-4a89-89a8-41d314b49191/PLSSTownship_NE.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/c73c0b86-998a-4af7-afe0-ac0ccf61ea60/PLSSSecond_Division_EL_PASO.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/f5b71837-9c4c-4a89-89a8-41d314b49191/PLSSTownship_NE.derived.json
 layout: post
 
 ---
@@ -27,10 +25,7 @@ layout: post
                 Infrastructure (NSDI) CADNSDI publication data set for rectangular and
                 non-rectangular Public Land Survey System (PLSS) data set. The metadata description
                 in the Cadastral Reference System Feature Data Set more fully describes the entire
-                data set. This feature class is the second division of the PLSS is quarter,
-                quarter-quarter, sixteenth or government lot divisions of the PLSS. The second and
-                third divisions are combined into this feature class as an intentional
-                de-normalization of the PLSS hierarchical data. The polygons in this feature class
-                represent the smallest division to the sixteenth that has been defined for the first
-                division. For example In some cases sections have only been divided to the quarter.
-                Divisions below the sixteenth are in the Special Survey or Parcel Feature Class. 
+                data set. This feature class contains the Public Land Survey System Townships which
+                are the primary unit of survey for the PLSS, nominally six miles on a side, usually
+                containing 36 sections. PLSS Townships are numbered from base lines and principal
+                meridians. 
