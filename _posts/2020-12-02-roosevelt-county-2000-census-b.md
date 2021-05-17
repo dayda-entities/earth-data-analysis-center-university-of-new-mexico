@@ -1,7 +1,7 @@
 ---
-title: Roosevelt  County 2000 Census Blocks
-created: '2020-12-02T17:21:57.607326'
-modified: '2020-12-02T17:21:57.607333'
+title: Roosevelt County 2000 Census Block Groups
+created: '2020-12-02T17:38:24.887402'
+modified: '2020-12-02T17:38:24.887412'
 state: active
 type: dataset
 tags:
@@ -32,9 +32,9 @@ tags:
   - Zip Code
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/59cd0fee-d216-46e2-8025-ae920f48b301/tgr41blk00shp.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/27f53ebf-4929-412d-a5c3-5e03e844fead/tgr41bg00shp.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/59cd0fee-d216-46e2-8025-ae920f48b301/tgr41blk00shp.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/27f53ebf-4929-412d-a5c3-5e03e844fead/tgr41bg00shp.derived.json
 layout: post
 
 ---
