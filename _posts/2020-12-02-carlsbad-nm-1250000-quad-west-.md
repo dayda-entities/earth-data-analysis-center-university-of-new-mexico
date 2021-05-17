@@ -1,7 +1,7 @@
 ---
 title: 'Carlsbad, NM 1250,000 Quad West Half USGS Land Use/Land Cover, 2000'
-created: '2020-12-02T17:21:50.770400'
-modified: '2020-12-02T17:21:50.770412'
+created: '2020-12-02T16:44:28.157466'
+modified: '2020-12-02T16:44:28.157475'
 state: active
 type: dataset
 tags:
