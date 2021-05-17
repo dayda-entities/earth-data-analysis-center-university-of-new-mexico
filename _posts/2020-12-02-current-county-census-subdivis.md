@@ -1,9 +1,7 @@
 ---
-title: >-
-  Current County Census Subdivision for Santa Fe County, New Mexico, 2006se
-  TIGER
-created: '2020-12-02T17:29:08.470168'
-modified: '2020-12-02T17:29:08.470175'
+title: 'Current County Census Subdivision for Hidalgo County, New Mexico, 2006se TIGER'
+created: '2020-12-02T17:31:48.458056'
+modified: '2020-12-02T17:31:48.458067'
 state: active
 type: dataset
 tags:
@@ -11,18 +9,18 @@ tags:
   - Census Data
   - County
   - Current County Subdivisions
+  - Hidalgo County
   - New Mexico
-  - Santa Fe County
   - Tiger Data
   - United States
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/cb762a2f-083b-4e95-a6aa-578d8562f70f/tgr2006se_sant_cousubcu.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/ac5ce44f-7464-4b8e-a4ab-273abea6e330/tgr2006se_hida_cousubcu.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/cb762a2f-083b-4e95-a6aa-578d8562f70f/tgr2006se_sant_cousubcu.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/ac5ce44f-7464-4b8e-a4ab-273abea6e330/tgr2006se_hida_cousubcu.derived.json
 layout: post
 
 ---
 The 2006 Second Edition TIGER/Line files are an extract of selected geographic and cartographic information from the Census TIGER database.  The geographic coverage for a single TIGER/Line file is a county or statistical equivalent entity, with the coverage area based on the latest available governmental unit boundaries. The Census TIGER database represents a seamless national file with no overlaps or gaps between parts.  However, each county-based TIGER/Line file is designed to stand alone as an independent data set or the files can be combined to cover the whole Nation.  The 2006 Second Edition  TIGER/Line files consist of line segments representing physical features and governmental and statistical boundaries.  
 
-This shapefile represents the Current County Census Subdivision for Santa Fe County stored in the 2006 TIGER Second Edition dataset.
+This shapefile represents the Current County Census Subdivision for Hidalgo County stored in the 2006 TIGER Second Edition dataset.
