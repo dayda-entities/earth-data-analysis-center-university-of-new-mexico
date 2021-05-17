@@ -1,7 +1,7 @@
 ---
-title: McKinley County 2000 Census Block Groups
-created: '2020-12-02T17:33:36.425915'
-modified: '2020-12-02T17:33:36.425925'
+title: McKinley  County 2000 Census Blocks
+created: '2020-12-02T16:44:52.761890'
+modified: '2020-12-02T16:44:52.761900'
 state: active
 type: dataset
 tags:
@@ -32,9 +32,9 @@ tags:
   - Zip Code
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/364178f4-49f4-4979-b993-ded6eb256593/tgr31bg00shp.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/bd1e040c-e2a4-4ee2-bff7-0edbc2dceafc/tgr31blk00shp.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/364178f4-49f4-4979-b993-ded6eb256593/tgr31bg00shp.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/bd1e040c-e2a4-4ee2-bff7-0edbc2dceafc/tgr31blk00shp.derived.json
 layout: post
 
 ---
