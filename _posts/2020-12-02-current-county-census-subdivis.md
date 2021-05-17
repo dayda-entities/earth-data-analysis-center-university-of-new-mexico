@@ -1,26 +1,28 @@
 ---
-title: 'Current County Census Subdivision for Cibola County, New Mexico, 2006se TIGER'
-created: '2020-12-02T16:52:35.009256'
-modified: '2020-12-02T16:52:35.009263'
+title: >-
+  Current County Census Subdivision for Valencia County, New Mexico, 2006se
+  TIGER
+created: '2020-12-02T16:45:42.393026'
+modified: '2020-12-02T16:45:42.393032'
 state: active
 type: dataset
 tags:
   - 2006 Tiger Second Edition
   - Census Data
-  - Cibola County
   - County
   - Current County Subdivisions
   - New Mexico
   - Tiger Data
   - United States
+  - Valencia County
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/9d61f58c-a92c-475b-a0d4-7dbc9ee96ca8/tgr2006se_cibo_cousubcu.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/c0e137e5-98ec-40de-88dd-ac2f880d05a3/tgr2006se_vale_cousubcu.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/9d61f58c-a92c-475b-a0d4-7dbc9ee96ca8/tgr2006se_cibo_cousubcu.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/c0e137e5-98ec-40de-88dd-ac2f880d05a3/tgr2006se_vale_cousubcu.derived.json
 layout: post
 
 ---
 The 2006 Second Edition TIGER/Line files are an extract of selected geographic and cartographic information from the Census TIGER database.  The geographic coverage for a single TIGER/Line file is a county or statistical equivalent entity, with the coverage area based on the latest available governmental unit boundaries. The Census TIGER database represents a seamless national file with no overlaps or gaps between parts.  However, each county-based TIGER/Line file is designed to stand alone as an independent data set or the files can be combined to cover the whole Nation.  The 2006 Second Edition  TIGER/Line files consist of line segments representing physical features and governmental and statistical boundaries.  
 
-This shapefile represents the Current County Census Subdivision for Cibola County stored in the 2006 TIGER Second Edition dataset.
+This shapefile represents the Current County Census Subdivision for Valencia County stored in the 2006 TIGER Second Edition dataset.
