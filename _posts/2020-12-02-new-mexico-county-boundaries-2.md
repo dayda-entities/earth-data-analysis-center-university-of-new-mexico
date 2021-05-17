@@ -1,7 +1,7 @@
 ---
-title: 'New Mexico County Boundaries (2007FE, TIGER, Current)'
-created: '2020-12-02T16:51:26.727392'
-modified: '2020-12-02T16:51:26.727403'
+title: New Mexico County Boundaries (2000 Census)
+created: '2020-12-02T17:26:29.847075'
+modified: '2020-12-02T17:26:29.847084'
 state: active
 type: dataset
 tags:
@@ -15,9 +15,9 @@ tags:
   - United States
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/92403ebf-aec5-404b-ae8a-6db41f388737/2007fe_35_county.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/609320d1-8d95-47a7-818f-64ca7bc66c3d/2007fe_35_county00.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/92403ebf-aec5-404b-ae8a-6db41f388737/2007fe_35_county.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/609320d1-8d95-47a7-818f-64ca7bc66c3d/2007fe_35_county00.derived.json
 layout: post
 
 ---
