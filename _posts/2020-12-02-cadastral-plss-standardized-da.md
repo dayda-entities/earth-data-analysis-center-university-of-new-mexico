@@ -1,31 +1,28 @@
 ---
-title: Cadastral PLSS Standardized Data - PLSSPoints (Tularosa) - Version 1.1
-created: '2020-12-02T16:52:57.058199'
-modified: '2020-12-02T16:52:57.058206'
+title: 'Cadastral PLSS Standardized Data - PLSSReferenceGrid, SE - Version 1.1'
+created: '2020-12-02T17:30:57.731728'
+modified: '2020-12-02T17:30:57.731735'
 state: active
 type: dataset
 tags:
   - Cadastral
-  - Data Steward
+  - Cadastral Reference
   - New Mexico
   - Plss
-  - Plss Corners
   - Public Land Survey System
+  - Section
+  - Township
   - United States
   - Usa
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/c7d0f432-381d-4df7-9488-92b077225237/PLSSPoints_TULAROSA.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/433e05a9-e555-443a-8f94-01795a1a9ae6/PLSSReferenceGrid_SE.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/c7d0f432-381d-4df7-9488-92b077225237/PLSSPoints_TULAROSA.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/433e05a9-e555-443a-8f94-01795a1a9ae6/PLSSReferenceGrid_SE.derived.json
 layout: post
 
 ---
- This feature class is part of the Cadastral National Spatial Data
-                Infrastructure (NSDI) CADNSDI publication data set for rectangular and
-                non-rectangular Public Land Survey System (PLSS) data set. The metadata description
-                in the Cadastral Reference System Feature Data Set more fully describes the entire
-                data set. These are the corners of the PLSS. This feature class contains summary
-                information about the coordinate location and reliability of corner coordinate
-                information. alternate names or aliases for corners are also inlcuded in this
-                feature class. 
+
+This feature class is part of the Cadastral National Spatial Data Infrastructure (NSDI) CADNSDI publication data set for rectangular and non-rectangular Public Land Survey System (PLSS) data set.  The metadata description in the Cadastral Reference System Feature Data Set more fully describes the entire data set.
+The PLSS Reference Grid is a generalized data set providing the Township and First Divisions of the PLSS as a separate feature class to support data requests, mapping and indexing. The spatial location and position and attributes of this feature class are the same as those in the primary data sets from which this data is built.  These data are often used for map sheet layouts and general location reference
+
