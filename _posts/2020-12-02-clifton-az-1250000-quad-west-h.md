@@ -1,7 +1,7 @@
 ---
 title: 'Clifton, AZ 1250,000 Quad West Half USGS Land Use/Land Cover, 2000'
-created: '2020-12-02T17:33:19.757538'
-modified: '2020-12-02T17:33:19.757546'
+created: '2020-12-02T17:02:37.692395'
+modified: '2020-12-02T17:02:37.692403'
 state: active
 type: dataset
 tags:
