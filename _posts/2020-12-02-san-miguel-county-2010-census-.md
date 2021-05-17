@@ -1,25 +1,27 @@
 ---
-title: San Miguel County 2010 Census Voting District County-based (VTD)
-created: '2020-12-02T17:24:16.766920'
-modified: '2020-12-02T17:24:16.766927'
+title: San Miguel County 2010 Census Roads
+created: '2020-12-02T16:50:08.474483'
+modified: '2020-12-02T16:50:08.474489'
 state: active
 type: dataset
 tags:
   - '35047'
+  - Address Range
   - County Or Equivalent Entity
-  - Polygon
+  - Linear Feature
+  - Road Feature
+  - Roads
   - San Miguel
-  - State Legislative District
+  - Street Centerline
   - U.s.
   - United States
-  - Voting District
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/a5fcffb2-5851-477d-83a2-e6e3c445572e/tl_2010_35047_vtd10.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/4dfdf199-906b-4681-a76f-81411a8d54b0/tl_2010_35047_roads.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/a5fcffb2-5851-477d-83a2-e6e3c445572e/tl_2010_35047_vtd10.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/4dfdf199-906b-4681-a76f-81411a8d54b0/tl_2010_35047_roads.derived.json
 layout: post
 
 ---
-The TIGER/Line Files are shapefiles and related database files (.dbf) that are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB).  The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line File is designed to stand alone as an independent data set, or they can be combined to cover the entire nation.  Voting district is the generic name for geographic entities such as precincts, wards, and election districts established by State governments for the purpose of conducting elections.  States participating in the 2010 Census Redistricting Data Program as part of Public Law 94-171 (1975) provided the Census Bureau with boundaries, codes, and names for their VTDs.  Each VTD is identified by a 1- to 6-character alphanumeric census code that is unique within county.  For the 2010 Census, Rhode Island is the only State that did not participate in Phase 2 (the Voting District Project) of the Redistricting Data Program and no VTDs exist for this State in the 2010 Census data products.  Note that only Montana and Oregon do not have complete coverage of VTDs for the 2010 Census.  
+The TIGER/Line Files are shapefiles and related database files (.dbf) that are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB).  The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line File is designed to stand alone as an independent data set, or they can be combined to cover the entire nation.  The All Roads Shapefile includes all features within the MTDB Super Class "Road/Path Features" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB tha begin with "S".  This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.  
 
