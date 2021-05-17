@@ -1,7 +1,9 @@
 ---
-title: 'Cadastral PLSS Standardized Data - PLSSFirstDivision, NE - Version 1.1'
-created: '2020-12-02T17:24:05.892505'
-modified: '2020-12-02T17:24:05.892512'
+title: >-
+  Cadastral PLSS Standardized Data - PLSSSecond Division (Silver City) - Version
+  1.1
+created: '2020-12-02T16:56:53.287668'
+modified: '2020-12-02T16:56:53.287675'
 state: active
 type: dataset
 tags:
@@ -9,6 +11,7 @@ tags:
   - Cadastral Reference
   - New Mexico
   - Plss
+  - Plss Divisions
   - Public Land Survey System
   - Section
   - Township
@@ -16,9 +19,9 @@ tags:
   - Usa
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/b8d44782-4002-4da9-9fdf-a7ed405bee7b/PLSSFirstDivision_NE.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/3a3817ff-ae6b-451e-add2-d09e379c2727/PLSSSecond_Division_SILVER_CITY.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/b8d44782-4002-4da9-9fdf-a7ed405bee7b/PLSSFirstDivision_NE.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/3a3817ff-ae6b-451e-add2-d09e379c2727/PLSSSecond_Division_SILVER_CITY.derived.json
 layout: post
 
 ---
@@ -26,7 +29,10 @@ layout: post
                 Infrastructure (NSDI) CADNSDI publication data set for rectangular and
                 non-rectangular Public Land Survey System (PLSS) data set. The metadata description
                 in the Cadastral Reference System Feature Data Set more fully describes the entire
-                data set. The PLSS First Division is commonly the section but can also be lots or
-                tracts. This ifeature class s the first set of divisions for a PLSS Township. If the
-                first division is a section the nominal size is one mile on a side and 640 acres,
-                but actual sections will vary. 
+                data set. This feature class is the second division of the PLSS is quarter,
+                quarter-quarter, sixteenth or government lot divisions of the PLSS. The second and
+                third divisions are combined into this feature class as an intentional
+                de-normalization of the PLSS hierarchical data. The polygons in this feature class
+                represent the smallest division to the sixteenth that has been defined for the first
+                division. For example In some cases sections have only been divided to the quarter.
+                Divisions below the sixteenth are in the Special Survey or Parcel Feature Class. 
