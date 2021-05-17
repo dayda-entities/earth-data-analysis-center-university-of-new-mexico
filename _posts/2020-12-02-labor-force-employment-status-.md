@@ -1,7 +1,7 @@
 ---
-title: LABOR FORCE Employment Status of Males 16 Yrs and Over COS 2000
-created: '2020-12-02T17:25:27.613790'
-modified: '2020-12-02T17:25:27.613801'
+title: LABOR FORCE Employment Status of Females 16 Yrs and Over COS 2000
+created: '2020-12-02T17:00:04.402742'
+modified: '2020-12-02T17:00:04.402749'
 state: active
 type: dataset
 tags:
@@ -32,9 +32,9 @@ tags:
   - Zip Code
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/ec48ab3f-b94d-4199-8d21-1b98a8a9b6bc/k00263data913352003_cnty_view.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/5f1be768-b248-4e7f-abce-798d765ace78/k00264data424664621_cnty_view.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/ec48ab3f-b94d-4199-8d21-1b98a8a9b6bc/k00263data913352003_cnty_view.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/5f1be768-b248-4e7f-abce-798d765ace78/k00264data424664621_cnty_view.derived.json
 layout: post
 
 ---
