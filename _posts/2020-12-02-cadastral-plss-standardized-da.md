@@ -1,28 +1,23 @@
 ---
-title: Cadastral PLSS Standardized Data - PLSSIntersected (Socorro) - Version 1.1
-created: '2020-12-02T16:55:09.259927'
-modified: '2020-12-02T16:55:09.259935'
+title: 'Cadastral PLSS Standardized Data - PLSSTownship, SE - Version 1.1'
+created: '2020-12-02T17:25:40.755491'
+modified: '2020-12-02T17:25:40.755501'
 state: active
 type: dataset
 tags:
   - Cadastral
   - Cadastral Reference
-  - Data Steward
-  - Meandered Water
   - New Mexico
   - Plss
-  - Plss Divisions
-  - Plss Special Surveys
   - Public Land Survey System
-  - Section
   - Township
   - United States
   - Usa
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/a368d395-19b7-4f04-bcc3-857a1a18d1a2/PLSSIntersected_SOCORRO.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/e152c93c-0ee6-4dbb-9919-c093b481ff59/PLSSTownship_SE.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/a368d395-19b7-4f04-bcc3-857a1a18d1a2/PLSSIntersected_SOCORRO.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/e152c93c-0ee6-4dbb-9919-c093b481ff59/PLSSTownship_SE.derived.json
 layout: post
 
 ---
@@ -30,7 +25,7 @@ layout: post
                 Infrastructure (NSDI) CADNSDI publication data set for rectangular and
                 non-rectangular Public Land Survey System (PLSS) data set. The metadata description
                 in the Cadastral Reference System Feature Data Set more fully describes the entire
-                data set. The fully intersected data is the atomic level of the PLSS that is similar
-                to the Esri coverage or the smallest pieces used to build the PLSS. Polygons may
-                overlap in this feature class. This feature class will also contain retired or
-                replaced areas of the PLSS. 
+                data set. This feature class contains the Public Land Survey System Townships which
+                are the primary unit of survey for the PLSS, nominally six miles on a side, usually
+                containing 36 sections. PLSS Townships are numbered from base lines and principal
+                meridians. 
