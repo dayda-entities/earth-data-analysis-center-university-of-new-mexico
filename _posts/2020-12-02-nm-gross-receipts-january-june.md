@@ -1,7 +1,7 @@
 ---
-title: NM Gross Receipts January - June 2013
-created: '2020-12-02T17:24:04.550259'
-modified: '2020-12-02T17:24:04.550266'
+title: NM Gross Receipts January - June 2011
+created: '2020-12-02T17:26:55.163236'
+modified: '2020-12-02T17:26:55.163243'
 state: active
 type: dataset
 tags:
@@ -10,7 +10,6 @@ tags:
   - District
   - Districts
   - Gross
-  - Gross Receipts
   - New Mexico
   - Polygon
   - Rate
@@ -19,10 +18,16 @@ tags:
   - United States
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/b3638bac-5f2b-4839-9617-296260d04288/NMgrossreceipts_Jan_June_2013.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/0acbf4fd-d2ab-4216-9c48-803418166003/nmgrossreceipts_jan_jun2011.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/b3638bac-5f2b-4839-9617-296260d04288/NMgrossreceipts_Jan_June_2013.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/0acbf4fd-d2ab-4216-9c48-803418166003/nmgrossreceipts_jan_jun2011.derived.json
 layout: post
 
 ---
-This layer represents boundaries for New Mexico's gross receipts tax districts as identified on the "Gross Receipts Tax Rate Schedule" published by the Taxation and Revenue Department. Initial municipal boundaries acquired from RGIS and based on layers developed by the Earth Data Analysis Center (EDAC) at UNM. TRD revisions have been made by acquiring updated boundaries from data stewards at local jurisdictions. Data is a vector polygon digital data structure taken from the Census Bureau's TIGER/Line Files, 1994, for New Mexico Known issues: This data layer may contain unintended inaccuracies and omissions.
+ This layer represents boundaries for New Mexico's gross receipts tax districts as
+identified on the "Gross Receipts Tax Rate Schedule" published by the Taxation and Revenue
+Department. Initial municipal boundaries acquired from RGIS and based on layers developed by the
+Earth Data Analysis Center (EDAC) at UNM. TRD revisions have been made by acquiring updated
+boundaries from data stewards at local jurisdictions. Data is a vector polygon digital data
+structure taken from the Census Bureau's TIGER/Line Files, 1994, for New Mexico Known issues: This
+data layer may contain unintended inaccuracies and omissions. 
