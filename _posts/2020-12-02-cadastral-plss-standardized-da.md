@@ -1,24 +1,22 @@
 ---
-title: 'Cadastral PLSS Standardized Data - PLSSReferenceGrid, SW - Version 1.1'
-created: '2020-12-02T17:30:59.557055'
-modified: '2020-12-02T17:30:59.557062'
+title: 'Cadastral PLSS Standardized Data - MeanderedWater, NE - Version 1.1'
+created: '2020-12-02T17:24:29.384817'
+modified: '2020-12-02T17:24:29.384824'
 state: active
 type: dataset
 tags:
   - Cadastral
-  - Cadastral Reference
+  - Data Steward
   - New Mexico
   - Plss
   - Public Land Survey System
-  - Section
-  - Township
   - United States
   - Usa
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/c067174e-cc26-4be6-8bc7-897c47536368/PLSSReferenceGrid_SW.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/213b8a2b-39fd-4156-be60-629257a06501/MeanderedWater_NE.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/c067174e-cc26-4be6-8bc7-897c47536368/PLSSReferenceGrid_SW.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/213b8a2b-39fd-4156-be60-629257a06501/MeanderedWater_NE.derived.json
 layout: post
 
 ---
@@ -26,9 +24,10 @@ layout: post
                 Infrastructure (NSDI) CADNSDI publication data set for rectangular and
                 non-rectangular Public Land Survey System (PLSS) data set. The metadata description
                 in the Cadastral Reference System Feature Data Set more fully describes the entire
-                data set. The PLSS Reference Grid is a generalized data set providing the Township
-                and First Divisions of the PLSS as a separate feature class to support data
-                requests, mapping and indexing. The spatial location and position and attributes of
-                this feature class are the same as those in the primary data sets from which this
-                data is built. These data are often used for map sheet layouts and general location
-                reference 
+                data set. This is a graphic representation of the data stewards for the Public Land
+                Survey System (PLSS). For BLM data sets the the data steward is identifed at the
+                township level or smaller area The Data Steward is agency that will be responsible
+                for updates of the PLSS. In the shared environment of the Natioanl Spatial Data
+                Infrastructure (NSDI) the data steward for an area is the primary coordinator or
+                agency responsible for making updates or causing updates to be made. Any questions
+                about data content should be directed to the data steward. 
