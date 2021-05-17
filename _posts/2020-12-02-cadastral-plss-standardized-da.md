@@ -1,7 +1,7 @@
 ---
-title: Cadastral PLSS Standardized Data - PLSSIntersected (Tularosa) - Version 1.1
-created: '2020-12-02T17:36:13.335931'
-modified: '2020-12-02T17:36:13.335937'
+title: Cadastral PLSS Standardized Data - PLSSIntersected (Aztec) - Version 1.1
+created: '2020-12-02T17:36:36.681986'
+modified: '2020-12-02T17:36:36.681997'
 state: active
 type: dataset
 tags:
@@ -20,9 +20,9 @@ tags:
   - Usa
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/9c69d834-54ff-44e5-9da5-956ccc6c2f31/PLSSIntersected_TULAROSA.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/2c97e31f-aabf-414c-99b0-0adbcc95eb5a/PLSSIntersected_AZTEC.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/9c69d834-54ff-44e5-9da5-956ccc6c2f31/PLSSIntersected_TULAROSA.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/2c97e31f-aabf-414c-99b0-0adbcc95eb5a/PLSSIntersected_AZTEC.derived.json
 layout: post
 
 ---
