@@ -1,7 +1,7 @@
 ---
-title: Digital Geologic Map of New Mexico - Formations
-created: '2020-12-02T17:26:06.320506'
-modified: '2020-12-02T17:26:06.320513'
+title: Digital Geologic Map of New Mexico - Volcanic Vents
+created: '2020-12-02T16:50:45.740447'
+modified: '2020-12-02T16:50:45.740457'
 state: active
 type: dataset
 tags:
@@ -11,12 +11,13 @@ tags:
   - New Mexico
   - Us35 = New Mexico
   - Usa
+  - Volcanic Vents
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/51349b33-92eb-4ab8-9217-81c82b5c3afa/nmmapdd83shp.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/e618b09a-e4b6-46df-9560-1e11e19f6926/ventdd83shp.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/51349b33-92eb-4ab8-9217-81c82b5c3afa/nmmapdd83shp.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/e618b09a-e4b6-46df-9560-1e11e19f6926/ventdd83shp.derived.json
 layout: post
 
 ---
-The geologic map was created in GSMAP at Socorro, New Mexico by Orin Anderson and Glen Jones and published as the Geologic Map of New Mexico 1:500,000 in GSMAP format in 1994. This graphic file was converted to ARC/INFO format by Greb Green and GlenJones and released as the Geologic Map of New Mexico in ARC/INFO format in 1997.
+The geologic map was created in GSMAP at Socorro, New Mexico by Orin Anderson and Glen Jones and published as the Geologic Map of New Mexico 1:500,000 in GSMAP format in 1994. This graphic file was converted to ARC/INFO format by Greb Green and GlenJones and released as the Geologic Map of New Mexico in ARC/INFO format in 1997. This shapefile only shows the volcanic vents for New Mexico, that are used on the Digital Geologic Map for New Mexico.
