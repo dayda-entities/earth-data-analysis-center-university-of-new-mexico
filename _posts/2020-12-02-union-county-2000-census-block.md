@@ -1,7 +1,7 @@
 ---
-title: Union  County 2000 Census Blocks
-created: '2020-12-02T16:47:00.187449'
-modified: '2020-12-02T16:47:00.187456'
+title: Union County 2000 Census Block Groups
+created: '2020-12-02T17:29:24.962935'
+modified: '2020-12-02T17:29:24.962943'
 state: active
 type: dataset
 tags:
@@ -32,9 +32,9 @@ tags:
   - Zip Code
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/7c80efcf-718a-454a-930f-b865a99b8f9f/tgr59blk00shp.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/e99a5437-49fc-42d3-ba07-743c7904cb93/tgr59bg00shp.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/7c80efcf-718a-454a-930f-b865a99b8f9f/tgr59blk00shp.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/e99a5437-49fc-42d3-ba07-743c7904cb93/tgr59bg00shp.derived.json
 layout: post
 
 ---
