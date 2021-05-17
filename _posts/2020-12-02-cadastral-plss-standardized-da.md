@@ -1,7 +1,7 @@
 ---
-title: Cadastral PLSS Standardized Data - PLSSPoints (Douglas) - Version 1.1
-created: '2020-12-02T17:32:27.818602'
-modified: '2020-12-02T17:32:27.818613'
+title: 'Cadastral PLSS Standardized Data - MetadataGlance, SW - Version 1.1'
+created: '2020-12-02T16:53:04.079081'
+modified: '2020-12-02T16:53:04.079089'
 state: active
 type: dataset
 tags:
@@ -9,15 +9,14 @@ tags:
   - Data Steward
   - New Mexico
   - Plss
-  - Plss Corners
   - Public Land Survey System
   - United States
   - Usa
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/f0e4aabd-b616-4b14-8c44-77b023c45e58/PLSSPoints_DOUGLAS.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/3fb59591-7a77-4596-9129-192385ec29fd/MetadataGlance_SW.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/f0e4aabd-b616-4b14-8c44-77b023c45e58/PLSSPoints_DOUGLAS.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/3fb59591-7a77-4596-9129-192385ec29fd/MetadataGlance_SW.derived.json
 layout: post
 
 ---
@@ -25,7 +24,10 @@ layout: post
                 Infrastructure (NSDI) CADNSDI publication data set for rectangular and
                 non-rectangular Public Land Survey System (PLSS) data set. The metadata description
                 in the Cadastral Reference System Feature Data Set more fully describes the entire
-                data set. These are the corners of the PLSS. This feature class contains summary
-                information about the coordinate location and reliability of corner coordinate
-                information. alternate names or aliases for corners are also inlcuded in this
-                feature class. 
+                data set. This is a graphic representation of the data stewards for the Public Land
+                Survey System (PLSS). For BLM data sets the the data steward is identifed at the
+                township level or smaller area The Data Steward is agency that will be responsible
+                for updates of the PLSS. In the shared environment of the Natioanl Spatial Data
+                Infrastructure (NSDI) the data steward for an area is the primary coordinator or
+                agency responsible for making updates or causing updates to be made. Any questions
+                about data content should be directed to the data steward. 
