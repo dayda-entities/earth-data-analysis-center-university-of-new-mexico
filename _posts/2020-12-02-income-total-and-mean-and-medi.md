@@ -1,7 +1,7 @@
 ---
-title: INCOME Total and Mean and Median Family Income in 1999 NMHD 2000
-created: '2020-12-02T16:58:59.396643'
-modified: '2020-12-02T16:58:59.396650'
+title: INCOME Total and Mean and Median Household Income in 1999 NMHD 2000
+created: '2020-12-02T17:21:12.268727'
+modified: '2020-12-02T17:21:12.268734'
 state: active
 type: dataset
 tags:
@@ -14,9 +14,9 @@ tags:
   - United States
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/d0646354-a03c-453f-901d-62da03843243/nmh246data52054602_sth_view.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/5fc2af1d-86d9-498a-8eed-1ccd927b33ff/nmh237data581562287_sth_view.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/d0646354-a03c-453f-901d-62da03843243/nmh246data52054602_sth_view.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/5fc2af1d-86d9-498a-8eed-1ccd927b33ff/nmh237data581562287_sth_view.derived.json
 layout: post
 
 ---
