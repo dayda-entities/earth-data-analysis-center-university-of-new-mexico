@@ -1,7 +1,7 @@
 ---
-title: Bernalillo County 2000 Census Block Groups
-created: '2020-12-02T17:35:46.727056'
-modified: '2020-12-02T17:35:46.727063'
+title: Bernalillo County 2000 Census Blocks
+created: '2020-12-02T17:37:19.598880'
+modified: '2020-12-02T17:37:19.598887'
 state: active
 type: dataset
 tags:
@@ -32,9 +32,9 @@ tags:
   - Zip Code
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/470074bc-3f81-4513-9b11-1279605b0233/tgr1bg00shp.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/cf901600-d392-4788-a330-7f3130f05d2c/tgr1blk00shp.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/470074bc-3f81-4513-9b11-1279605b0233/tgr1bg00shp.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/cf901600-d392-4788-a330-7f3130f05d2c/tgr1blk00shp.derived.json
 layout: post
 
 ---
