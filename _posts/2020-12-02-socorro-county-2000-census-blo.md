@@ -1,7 +1,7 @@
 ---
-title: Socorro County 2000 Census Block Groups
-created: '2020-12-02T16:49:26.948817'
-modified: '2020-12-02T16:49:26.948824'
+title: Socorro  County 2000 Census Blocks
+created: '2020-12-02T17:38:02.992236'
+modified: '2020-12-02T17:38:02.992243'
 state: active
 type: dataset
 tags:
@@ -32,9 +32,9 @@ tags:
   - Zip Code
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/65feb60f-7c60-475a-a22d-7a51cb88c7c7/tgr53bg00shp.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/e3df90ea-8735-4716-915f-939d1efa4c98/tgr53blk00shp.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/65feb60f-7c60-475a-a22d-7a51cb88c7c7/tgr53bg00shp.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/e3df90ea-8735-4716-915f-939d1efa4c98/tgr53blk00shp.derived.json
 layout: post
 
 ---
