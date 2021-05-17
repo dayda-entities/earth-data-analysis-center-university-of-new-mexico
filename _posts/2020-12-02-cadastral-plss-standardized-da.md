@@ -1,23 +1,28 @@
 ---
-title: 'Cadastral PLSS Standardized Data - PLSSSpecialSurvey, NW - Version 1.1'
-created: '2020-12-02T17:36:59.745002'
-modified: '2020-12-02T17:36:59.745009'
+title: Cadastral PLSS Standardized Data - PLSSIntersected (Tularosa) - Version 1.1
+created: '2020-12-02T17:36:13.335931'
+modified: '2020-12-02T17:36:13.335937'
 state: active
 type: dataset
 tags:
   - Cadastral
   - Cadastral Reference
+  - Data Steward
+  - Meandered Water
   - New Mexico
   - Plss
+  - Plss Divisions
   - Plss Special Surveys
   - Public Land Survey System
+  - Section
+  - Township
   - United States
   - Usa
 groups: []
 csv_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/9b78d327-49cf-4722-a588-6e237d80d4d1/PLSSSpecialSurvey_NW.derived.csv
+  http://gstore.unm.edu/apps/rgisarchive/datasets/9c69d834-54ff-44e5-9da5-956ccc6c2f31/PLSSIntersected_TULAROSA.derived.csv
 json_url: >-
-  http://gstore.unm.edu/apps/rgisarchive/datasets/9b78d327-49cf-4722-a588-6e237d80d4d1/PLSSSpecialSurvey_NW.derived.json
+  http://gstore.unm.edu/apps/rgisarchive/datasets/9c69d834-54ff-44e5-9da5-956ccc6c2f31/PLSSIntersected_TULAROSA.derived.json
 layout: post
 
 ---
@@ -25,7 +30,7 @@ layout: post
                 Infrastructure (NSDI) CADNSDI publication data set for rectangular and
                 non-rectangular Public Land Survey System (PLSS) data set. The metadata description
                 in the Cadastral Reference System Feature Data Set more fully describes the entire
-                data set. This feature class contains the Special Surveys which are non-rectangular
-                components of the PLSS from BLM survey records. These special survey areas are
-                generated from combinations of special survey codes, designators, notes and suffix
-                information in the PLSS Intersected feature class. 
+                data set. The fully intersected data is the atomic level of the PLSS that is similar
+                to the Esri coverage or the smallest pieces used to build the PLSS. Polygons may
+                overlap in this feature class. This feature class will also contain retired or
+                replaced areas of the PLSS. 
